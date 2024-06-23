@@ -5,27 +5,21 @@
 ## En spé 
 
 * **Programmes de khôlles :**
-  1. 😎
-  2. 😎
-  3. Révisions d'algèbre linéaire : 
-  4. Notion de norme et séries numériques ou à valeurs vectorielles : 
-  5. Début de la réduction, orienté vers le polynôme caractéristique :
-  6. 😎
-  7. Fin de la réduction, orienté vers le polynôme minimal : 
-  8. Fonctions à valeurs vectorielles : 
-  9. Espaces probabilisés, dénombrement : 
-  10. 😎
-  11. Suites et séries de fonctions : 
-  12. Séries entières : 
-  13. Intégration : 
-  14. 😎
-  15. Variables aléatoires : 
-  16. Révisions (réductions, analyse) : 
-  17. Topologie : 
-  18. 😎
-  19. Espaces préhilbertiens et euclidiens : 
-  20. Structures algébriques, arithmétique : 
-  21. Intégrales à paramètre : 
-  22. 😎
-  23. Équations différentielles : 
-  24. Calcul différentiel : 
+  1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Énoncé](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
+  2. Notion de norme et séries numériques ou à valeurs vectorielles : 
+  3. Début de la réduction, orienté vers le polynôme caractéristique :
+  4. Fin de la réduction, orienté vers le polynôme minimal :
+  5. Fonctions à valeurs vectorielles :
+  6. Espaces probabilisés, dénombrement :
+  7. Suites et séries de fonctions :
+  8. Séries entières :
+  9. Intégration :
+  10. Variables aléatoires :
+  11. Révisions (réductions, analyse) :
+  12. Topologie :
+  13. Espaces préhilbertiens et euclidiens :
+  14. Structures algébriques, arithmétique :
+  15. Intégrales à paramètre :
+  16. Équations différentielles :
+  17. Calcul différentiel :
+ 
