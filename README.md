@@ -4,11 +4,11 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 
 ## Ressources
 
-* [Database Informatique](/info/readme_info.md)
-* [Database Maths](/maths/readme_maths.md)
-* [Database Physique](/physique/readme_physique.md)
-* [Database Français](/français/readme_français.md)
-* [Database Anglais](/anglais/readme_anglais.md)
+* [Mathématiques](/maths/readme_maths.md)
+* [Informatique](/info/readme_info.md)
+* [Physique](/physique/readme_physique.md)
+* [Français](/français/readme_français.md)
+* [Anglais](/anglais/readme_anglais.md)
 
 ## Me contacter
 * Mail : olivier.caffier5@gmail.com
