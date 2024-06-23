@@ -5,7 +5,7 @@
 ## En spé 
 
 * **Programmes de khôlles :**
-  1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Énoncé](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
+  1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
   2. Notion de norme et séries numériques ou à valeurs vectorielles : 
   3. Début de la réduction, orienté vers le polynôme caractéristique :
   4. Fin de la réduction, orienté vers le polynôme minimal :
