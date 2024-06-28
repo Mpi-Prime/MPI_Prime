@@ -16,9 +16,11 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 ## Contributeurs
 
 * <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2025)" width="200"/> 
-Olivier Caffier (MPI* 2023-2024)
+Olivier Caffier
+(MPI* 2023-2024)
 
 
 
 * <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> 
-William Hasley (MPI* 2022-2024)
+William Hasley
+(MPI* 2022-2024)
