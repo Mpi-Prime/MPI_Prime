@@ -11,8 +11,8 @@
   4. Fin de la réduction, orienté vers le polynôme minimal : [Énoncé](/maths/kholles/maths_khube_kholle_4_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_4_corrige.pdf)
   5. Fonctions à valeurs vectorielles : [Énoncé](/maths/kholles/maths_khube_kholle_5_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_5_corrige.pdf)
   6. Espaces probabilisés, dénombrement : [Énoncé](/maths/kholles/maths_khube_kholle_6_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_6_corrige.pdf)
-  7. Suites et séries de fonctions : ⏳⌛️
-  8. Séries entières : ⏳⌛️
+  7. Suites et séries de fonctions : [Énoncé](/maths/kholles/maths_khube_kholle_7_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_7_corrige.pdf)
+  8. Séries entières : [Énoncé](/maths/kholles/maths_khube_kholle_8_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_8_corrige.pdf)
   9. Intégration : ⏳⌛️
   10. Variables aléatoires : ⏳⌛️
   11. Révisions (réductions, analyse) : ⏳⌛️
