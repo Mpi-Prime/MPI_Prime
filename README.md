@@ -21,7 +21,7 @@ Olivier Caffier  <br />
 
 <br /> 
 <br /> 
-
+<br /> 
 <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> 
 William Hasley  <br /> 
 (MPI* 2022-2024)
