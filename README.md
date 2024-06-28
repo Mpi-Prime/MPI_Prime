@@ -15,11 +15,8 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
   
 ## Contributeurs
 
-<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
-<img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2024)" width="200"/> 
-<figcaption>
-      Désert en Bolivie, prise de vue par Audesou.
-   </figcaption>
-</figure>
-* Olivier Caffier (MPI* 2023-2024)
-* William Hasley (MPI* 2022-2024)
+<img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2025)" width="200"/> 
+Olivier Caffier (MPI* 2023-2024)
+
+<img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> 
+William Hasley (MPI* 2022-2024)
