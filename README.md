@@ -14,8 +14,12 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 * Mail : olivier.caffier5@gmail.com
   
 ## Contributeurs
-![Olivier Caffier (MPI* 2023-2025)](/misc/images/image_cv_olivier.jpg)
 
-<img src="/misc/images/image_cv_olivier.jpg" alt="drawing" width="200"/>
+<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+<img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2024)" width="200"/> 
+<figcaption>
+      Désert en Bolivie, prise de vue par Audesou.
+   </figcaption>
+</figure>
 * Olivier Caffier (MPI* 2023-2024)
 * William Hasley (MPI* 2022-2024)
