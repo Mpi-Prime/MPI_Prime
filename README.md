@@ -10,8 +10,10 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 * [Français](/français/readme_français.md)
 * [Anglais](/anglais/readme_anglais.md)
 
-## Me contacter
-* Mail : olivier.caffier5@gmail.com
+## Nous contacter
+* Mail :
+  * olivier.caffier5@gmail.com
+  * william.j.hasley@gmail.com
   
 ## Contributeurs
 
