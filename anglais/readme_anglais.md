@@ -4,7 +4,7 @@
 ### Les épreuves
 * Modalités de chaque épreuve :
 * Rapports de jury :
-    * X-ENS :
+    * X-ENS : [2023](/anglais/ecrit/rapports/anglais_x_ens_rapport_2023)
     * Mines-Ponts :
     * Centrale :
     * CCINP :
