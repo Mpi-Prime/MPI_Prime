@@ -19,14 +19,14 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 
 <div align="center"> <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2025)" width="200"/> </div>
 <div align="center"> Olivier Caffier  <br /> </div>
-<div align="center"> (MPI* 2023-2024)  <br /> </div>
-<div align="center"> [Sacss-dev](https://github.com/Sacss-dev) </div>
+<div align="center"> (MPI* 2023-2025)  <br /> </div>
+<div align="center"> https://github.com/Sacss-dev </div>
 
 <br /> 
 <br /> 
 <br /> 
-<img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> 
+<div align="center"> <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> </div>
 
-* William Hasley  <br /> 
-* (MPI* 2022-2024)
-* [Carson-9](https://github.com/Carson-9)
+<div align="center"> William Hasley  <br /> </div>
+<div align="center"> (MPI* 2022-2024) </div>
+<div align="center"> [Carson-9](https://github.com/Carson-9) </div>
