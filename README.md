@@ -29,4 +29,4 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 
 <div align="center"> William Hasley  <br /> </div>
 <div align="center"> (MPI* 2022-2024) </div>
-<div align="center"> [Carson-9](https://github.com/Carson-9) </div>
+<div align="center"> https://github.com/Carson-9 </div>
