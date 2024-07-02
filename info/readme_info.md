@@ -3,15 +3,14 @@
 ## En sup'
 
 ## En spé
-### Test
-* **Cours** :
-  * Chapitre 1 :
+### Cours
+* Chapitre 1 :
 
-* **TDs** :
+### Travaux Dirigés
   * TD1 :
 
-* **TPs** :
+### Travaux pratiques
   * TP1 :
 
-* **DNS** :
+### DNS
   * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
