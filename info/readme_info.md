@@ -1,7 +1,8 @@
 # Informatique
 
 ## En sup'
-
+### Cours 
+ * [Poly complet](/info/cours/sup/poly-mp2i.pdf)
 ## En spé
 ### Cours
 * Chapitre 1 :
