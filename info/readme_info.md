@@ -8,6 +8,7 @@
 * **TDs** :
   * TD1 : 
 * **TPs** :
-  * TP1 : 
+  * TP1 :
+ 
 * **DNS** :
-  * DNS Vacances : 
+  * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
