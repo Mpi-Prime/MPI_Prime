@@ -17,8 +17,8 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
   
 ## Contributeurs
 
-<div align="center"> <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier Caffier (MPI* 2023-2025)" width="200"/> </div>
-<div align="center"> Olivier Caffier  <br /> </div>
+<div align="center"> <img src="/misc/images/augustine_et_olivier.heic" alt="Augustine et Olivier (MPI* 2023-2025)" width="200"/> </div>
+<div align="center"> Augustine Picquet et Olivier Caffier  <br /> </div>
 <div align="center"> (MPI* 2023-2025)  <br /> </div>
 <div align="center"> https://github.com/Sacss-dev </div>
 
