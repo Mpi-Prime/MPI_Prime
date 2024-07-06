@@ -14,6 +14,7 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 * Mail :
   * olivier.caffier5@gmail.com
   * william.j.hasley@gmail.com
+  * augustine.picquet.ndl@gmail.com 
   
 ## Contributeurs
 
