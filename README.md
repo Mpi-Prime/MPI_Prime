@@ -20,7 +20,7 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 <div align="center"> <img src="/misc/images/augustine_et_olivier.png" alt="Augustine et Olivier (MPI* 2023-2025)" width="200"/> </div>
 <div align="center"> Augustine Picquet et Olivier Caffier  <br /> </div>
 <div align="center"> (MPI* 2023-2025)  <br /> </div>
-<div align="center"> https://github.com/Sacss-dev </div>
+<div align="center"> https://github.com/augustinepicquet | https://github.com/Sacss-dev   </div>
 
 <br /> 
 <br /> 
