@@ -24,6 +24,24 @@
   17. Calcul différentiel : ⏳⌛️
 
   **Extra :** [Chaîne de William](https://www.youtube.com/@ColleExtraFdh)
+
+  
 * **TDs**
-  * Exos Vacances : [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
+  0. Exos Vacances : [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
+  1. Algèbre linéaire :  ⏳⌛️
+  2. Notion de norme : ⏳⌛️
+  3. Suite et séries vectorielles, sommabilité : ⏳⌛️
+  4. Réduction : ⏳⌛️
+  5. Fonctions à valeurs vectorielles : ⏳⌛️
+  6. Espaces probabilisés : ⏳⌛️
+  7. Suites et séries de fonctions : ⏳⌛️
+  8. Séries entières : ⏳⌛️
+  9. Intégration : ⏳⌛️
+  10. Variables aléatoires : ⏳⌛️
+  11. Topologie : ⏳⌛️
+  12. Espaces euclidiens : ⏳⌛️
+  13. Structures algébriques, arithmétiques et polynômes : ⏳⌛️
+  14. Intégrales à paramètres : ⏳⌛️
+  15. Équations différentielles : ⏳⌛️
+  16. Calcul différentiel : ⏳⌛️
 
