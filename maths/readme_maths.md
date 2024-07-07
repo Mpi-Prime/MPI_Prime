@@ -30,20 +30,20 @@
  _Exos Vacances :_ [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
 
 
-  1. Algèbre linéaire :  ⏳⌛️
-  2. Notion de norme : ⏳⌛️
-  3. Suite et séries vectorielles, sommabilité : ⏳⌛️
-  4. Réduction : ⏳⌛️
-  5. Fonctions à valeurs vectorielles : ⏳⌛️
-  6. Espaces probabilisés : ⏳⌛️
-  7. Suites et séries de fonctions : ⏳⌛️
-  8. Séries entières : ⏳⌛️
-  9. Intégration : ⏳⌛️
-  10. Variables aléatoires : ⏳⌛️
-  11. Topologie : ⏳⌛️
-  12. Espaces euclidiens : ⏳⌛️
-  13. Structures algébriques, arithmétiques et polynômes : ⏳⌛️
-  14. Intégrales à paramètres : ⏳⌛️
-  15. Équations différentielles : ⏳⌛️
-  16. Calcul différentiel : ⏳⌛️
+  1. Algèbre linéaire :  [Énoncé](/maths/td/maths_khube_td_1_enonce.pdf) |
+  2. Notion de norme : [Énoncé](/maths/td/maths_khube_td_2_enonce.pdf) 
+  3. Suite et séries vectorielles, sommabilité : [Énoncé](/maths/td/maths_khube_td_3_enonce.pdf)
+  4. Réduction : [Énoncé](/maths/td/maths_khube_td_4_enonce.pdf)
+  5. Fonctions à valeurs vectorielles : [Énoncé](/maths/td/maths_khube_td_5_enonce.pdf)
+  6. Espaces probabilisés : [Énoncé](/maths/td/maths_khube_td_6_enonce.pdf)
+  7. Suites et séries de fonctions : [Énoncé](/maths/td/maths_khube_td_7_enonce.pdf)
+  8. Séries entières : [Énoncé](/maths/td/maths_khube_td_8_enonce.pdf)
+  9. Intégration : [Énoncé](/maths/td/maths_khube_td_9_enonce.pdf)
+  10. Variables aléatoires : [Énoncé](/maths/td/maths_khube_td_10_enonce.pdf)
+  11. Topologie : [Énoncé](/maths/td/maths_khube_td_11_enonce.pdf)
+  12. Espaces euclidiens : [Énoncé](/maths/td/maths_khube_td_12_enonce.pdf)
+  13. Structures algébriques, arithmétiques et polynômes : [Énoncé](/maths/td/maths_khube_td_13_enonce.pdf)
+  14. Intégrales à paramètres : [Énoncé](/maths/td/maths_khube_td_14_enonce.pdf)
+  15. Équations différentielles : [Énoncé](/maths/td/maths_khube_td_15_enonce.pdf)
+  16. Calcul différentiel : [Énoncé](/maths/td/maths_khube_td_16_enonce.pdf)
 
