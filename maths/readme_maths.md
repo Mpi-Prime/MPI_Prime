@@ -27,7 +27,7 @@
 
   
 * **TDs**
-  0. Exos Vacances : [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
+_Exos Vacances :_ [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
   1. Algèbre linéaire :  ⏳⌛️
   2. Notion de norme : ⏳⌛️
   3. Suite et séries vectorielles, sommabilité : ⏳⌛️
