@@ -24,8 +24,10 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 <div align="center"> <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> </div>
 
 <div align="center"> William Hasley  <br /> </div>
-<div align="center"> (MPI* 2022-2024) </div>
-
+<div align="center"> (MPI* 2022-2024) <br /> </div>
+<br /> 
+<br /> 
+<br /> 
 <div align="center"> <img src="/misc/images/image_cv_clovis.png" alt="Clovis Johnson" width="250"/> </div>
 <div align="center"> Clovis Johnson <br /> </div>
 <div align="center"> (MPI 2022-2023, MPI* 2023-2024)  <br /> </div>
@@ -45,3 +47,4 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
   * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev)
   * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9)
   * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet)
+  * clovisj59790@gmail.com
