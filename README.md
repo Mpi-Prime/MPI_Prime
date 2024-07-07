@@ -11,17 +11,15 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 * [Anglais](/anglais/readme_anglais.md)
 
 ## Nous contacter
-* Mail :
-  * olivier.caffier5@gmail.com
-  * william.j.hasley@gmail.com
-  * augustine.picquet.ndl@gmail.com 
+  * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev)
+  * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9)
+  * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet)
   
 ## Contributeurs
 
 <div align="center"> <img src="/misc/images/augustine_et_olivier.png" alt="Augustine et Olivier (MPI* 2023-2025)" width="250"/> </div>
 <div align="center"> Augustine Picquet et Olivier Caffier  <br /> </div>
 <div align="center"> (MPI* 2023-2025)  <br /> </div>
-<div align="center"> https://github.com/augustinepicquet | https://github.com/Sacss-dev   </div>
 
 <br /> 
 <br /> 
@@ -30,4 +28,3 @@ Git de suivi de la MPI(*) du lycée Faidherbe.
 
 <div align="center"> William Hasley  <br /> </div>
 <div align="center"> (MPI* 2022-2024) </div>
-<div align="center"> https://github.com/Carson-9 </div>
