@@ -1,10 +1,10 @@
 # Mathématiques
 
-## En sup'
 
-## En spé 
 
-* **Programmes de khôlles :**
+
+
+## Programmes de khôlles :
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
   2. Notion de norme et séries numériques ou à valeurs vectorielles : [Énoncé](/maths/kholles/maths_khube_kholle_2_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_2_corrige.pdf)
   3. Début de la réduction, orienté vers le polynôme caractéristique : [Énoncé](/maths/kholles/maths_khube_kholle_3_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_3_corrige.pdf)
@@ -25,9 +25,11 @@
 
   **Extra :** [Chaîne de William](https://www.youtube.com/@ColleExtraFdh)
 
-  
-* **TDs**
-_Exos Vacances :_ [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
+
+## TDs
+ _Exos Vacances :_ [Énoncé et Corrigé](https://drive.google.com/drive/folders/1QXxbjRL8K3j5Rz3CZH5EoPqfg3Jx73NI?usp=drive_link)
+
+
   1. Algèbre linéaire :  ⏳⌛️
   2. Notion de norme : ⏳⌛️
   3. Suite et séries vectorielles, sommabilité : ⏳⌛️
