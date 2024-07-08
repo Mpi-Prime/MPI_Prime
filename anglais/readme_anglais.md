@@ -27,3 +27,15 @@
 ## À l'oral… comme à l'écrit !
 ### Quelques fiches et _first aid kit_
 ### Les news 
+
+### Fiches vocabulaire : 
+Voici les cartes de vocabulaire d'anglais de votre année de MPI(*)
+
+Elles sont basées sur le fichiers de vocabulaire que vous devriez recevoir au format papier en septembre
+
+Elles sont présentes ici sous deux formes : 
+-"fiches_anglais_voca_hurtrez.txt" est un fichier de fiches anki déjà créées, elles sont regroupées en un fichier et les chapitres sont repérés par des tags (ou étiquettes dans la version française d'anki)
+
+-"theme_numero_titre.txt" sont les fichiers de vocabulaires séparés, vous pouvez les importer sur anki en prenant pour séparateur de champ ":" et séparateur de ligne le retour à la ligne
+
+
