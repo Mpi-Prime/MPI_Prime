@@ -1,0 +1,128 @@
+﻿HEALTH: la santé
+PAIN: douleur
+A GERM: un microbe
+TO CATCH AN ILLNESS / A DISEASE: attraper une maladie
+TO HAVE/COME DOWN WITH THE FLU: avoir /attraper la grippe
+TO BE INFECTED WITH A VIRUS (Plur.VIRUSES): être contaminé par un virus
+TO PASS ON A VIRUS: transmettre un virus
+AN OUTBREAK / AN EPIDEMIC: une épidémie
+TO TAKE A HEAVY TOLL: faire des ravages / de nombreuses victimes 
+TO SUFFER FROM STH: souffrir de qch
+TO BE DIAGNOSED WITH: recevoir un diagnostique
+TO FEEL SICK (!=TO BE SICK): avoir la nausée (!= vomir / être malade) 
+TO BE ILL: être malade
+TO BE/GET INJURED: se blesser (accidentellement)
+TO BE/GET WOUNDED: se blesser (surtout plaie causée par une arme)
+A STAB / GUNSHOT WOUND: blessure à l’arme blanche / par balle
+A vACCINE: un vaccin
+THE ANTI-VAX MOVEMENT: le mouvement anti-vaccin 
+ANTI-VAXXERS (US): les anti-vaccins
+Ø MEDICINE / A DRUG: un médicament 
+A DRUGSTORE (as): une pharmacie
+TO GO TO THE CHEMIST’S (UK) : aller à la pharmacie
+THE N.H.S. (UK) (THE NATIONAL HEALTH SERVICE): services de santé britanniques
+THE HEALTH DEPARTMENT (US): le ministère de la santé 
+HEALTH CARE COVERAGE: couverture des soins de santé 
+OBAMACARE: couverture soins de santé créée par Obama
+TO COVER HEALTH CARE FEES - COSTS: couvrir des frais médicaux
+BENEFIT FRAUD: fraude aux prestations sociales
+A BENEFIT CHEAT: qn qui abuse des prestations sociales
+A HOSPITAL: hôpital
+A SURGEON: un chirurgien 
+SURGERY: la chirurgie
+TO OPERATE (ON SB): opérer (qn)
+TO RECOVER FROM: se rétablir (de)
+A TRANSPLANT: une greffe
+A PHYSICIAN ([!] A PHYSICIST): un médecin ( [!] un physicien) 
+A GENERAL PRACTITIONER / A GP (UK): un généraliste 
+TO PRESCRIBE A PAINKILLER: prescrire un anti-douleur 
+A TABLET: un comprimé
+SIDE-EFFECTs: effets secondaires
+OVER-THE-COUNTER MEDICINES (OTC): médicaments en vente libre
+A CHEMIST: un pharmacien (UK), un chimiste
+TO CURE/ TO TREAT: soigner
+TO HEAL FROM: guérir (de)
+TO PREVENT MEASLES: prévenir la rougeole
+BREAST/LUNG CANCER: cancer du sein/des poumons
+TO UNDERGO CHEMOTHERAPY: subir une chimiothérapie 
+A CLINICAL TRIAL: un essai clinique
+Hiv  (AN AIDS SUFFERER) : le virus HIV (un malade du sida) 
+TO DEVELOP AIDS: contracter le sida
+DRUG ABUSE: la toxicomanie
+ALCOHOL ABUSE: l'alcoolisme 
+DRINKING: la boisson, l'alcool
+TO DRY OUT: se désintoxiquer (alcool)
+TO BE HEALTH-CONSCIOUS: être soucieux de sa santé
+A TEETOTALLER : personne abstinente, qui ne consomme pas du tout d’alcool
+TO FALL OFF THE WAGON : retomber ds l’alcool après une période d’abstinence
+TO GO COLD TURKEY: arrêter d’un coup
+A HEAVY SMOKER / A CHAIN SMOKER: un fumeur invétéré
+TO CUT DOWN ON STH: réduire sa consommation de qch
+TO KICK THE HABIT: arrêter définitivement (l’alcool, le tabac. ..)
+TO GIVE UP/ QUIT SMOKING: arrêter la cigarette
+PASSIVE SMOKING: le tabagisme passif 
+ANTI-SMOKING ADS: la publicité anti-tabac 
+A SMOKING BAN: une interdiction de fumer
+AN E-CIG /AN E-CIGARETTE: une cigarette électronique 
+PLAIN TOBACCO PACKAGING: paquet de cigarette neutre
+TO VAPE: vapoter
+MEDICAL MARIJUANA (us): le cannabis thérapeutique
+TO BE TERMINALLY ILL: être en phase terminale 
+TO BE IN A COMA: être dans le coma
+UNBEARABLE SUFFERING: souffrances insupportables 
+TO END ONE’S LIFE: mettre fin à ses jours
+ASSISTED SUICIDE: le suicide assisté
+TO PRACTISE EUTHANASIA: pratiquer l'euthanasie
+REPRODUCTIVE TECHNIQUES: les techniques de fécondation
+ARTIFICIAL INSEMINATION: 1’insémination artificielle 
+IVF (IN VITRO FERTILISATION): fécondation in-vitro 
+AN ULTRASOUND / SONOGRAM (Us): une échographie 
+A TEST-TUBE BABY: un bébé éprouvette
+GENETICS: la génétique
+A DESIGNER BABY: un bébé sur mesure
+BABY-SHOPPERS: parents qui choisissent les caractéristiques de leur futur bébé
+GENETIC ENGINEERING: le génié génétique /ingéniérie génétique
+HUMAN / ANIMAL CLONING: le clonage humain / animal
+TO PLAY GOD: jouer à l’apprenti sorcier
+REPRODUCTIVE CLONING: clonage reproductif 
+THERAPEUTIC CLONING: clonage thérapeutique 
+THE HUMAN GENOME: le génome humain
+A GENETIC DISORDER: maladie génétique
+A BIRTH DEFECT: malformation congénitale 
+TO SCREEN GENES: déchiffrer les gènes
+A STEM CELL: cellule souche
+AN EMBRYO: embryon
+A SAVIOUR SIBLING: un bébé-médicament conçu pour permettre à un premier enfant malade de guérir grâce aux cellules souche du placenta 
+ETHICS: l'éthique
+AN ETHICS COMMISSION: comité d'éthique
+ETHICAL / UNETHICAL: conforme / non conforme à l'éthique
+CONTROVERSIAL / DEBATABLE: contestable
+TO CROSS A / THE LINE: franchir les limites (de l’éthique)
+TO TAMPER WITH NATURE: toucher à la nature
+THE PRECAUTIONARY PRINCIPLE: le principe de précaution
+TO SPARK/ TRIGGER A DEBATE: provoquer un débat
+A CONTROVERSIAL / CONTENTIOUS ISSUE: un probl controversé
+TO CAUSE AN OUTCRY: susciter un tollé
+TO CAUSE PUBLIC OUTRAGE: scandaliser l'opinion
+TO CAUSE AN UPROAR: provoquer une tempête de protestations
+TO BE CAUSE FOR CONCERN: être source d'inquiétude
+GMOS / GM CROPs: les cultures oGM 
+GM-FREE: sans oGM
+DISEASE-RESISTANT: qui résiste aux maladies 
+TO IMPROVE YIELDS: améliorer les rendements
+ENDOCRINE DISRUPTORS: perturbateurs endocriniens 
+ANTIBIOTIC RESISTANCE: la résistance aux antibiotiques 
+CROPS: les cultures
+LIVESTOCK: le bétail
+THE FOOD CHAIN: la chaîne alimentaire
+THE FOOD-PROCESSING INDUSTRY: l’industrie agro-alimentaire
+CONVENIENCE / PROCESSED FOODs: les plats cuisinés
+TO OVEREAT: manger à 1’excès 
+FATTENING: qui fait grossir 
+OBESE / OBESITY: obèse / obésité
+A HOME-COOKED MEAL: un plat fait maison 
+ORGANIC FOOD: les aliments bio 
+VEGANISM: le végétalisme
+HEALTHY EATING HABITS: bonnes habitudes alimentaires 
+UNHEALTHY EATING HABITS: mauvaises habitudes alimentaires
+

@@ -1,0 +1,129 @@
+﻿GLOBALISATION: la mondialisation 
+GLOBAL TRADE: commerce international 
+THE GIG ECONOMY: l économie à la tâche
+THE SHARING ECONOMY: 1’économie du partage 
+EMERGING COUNTRIEs: les pays émergents 
+EASTERN EUROPE: Europe orientale 
+WESTERN EUROPE: Europe occidentale 
+PROTECTIONISM: le protectionnisme
+A TRADE DISPUTE: un désaccord commercial 
+STATE INTERVENTION: l'intervention de l'état 
+A SHELTERED MARKET: un marché protégé 
+TRADE BARRIERS: les barrières commerciales 
+CUSTOMS DUTY : les droits de douane 
+SUBSIDIES: subventions gouvernementales
+IMPORTS != EXPORTS: importations != exportations
+TO IMPORT FROM / TO: importer de / vers
+OUTSOURCING /OFFSHORING (!= reshoring): délocalisation (!= relocalisation)
+AN ECONOMIC SLOWDOWN/SLUMP/DOWNTURN: ralentissement éeon.
+A FAILING ECONOMY: une économie faiblissante
+A BAIL-OUT PLAN: un plan de renflouement / sauvetage
+A CURRENCY, (cryptocurrency): une devise (cryptomonnaie)
+A FIELD: un secteur d’activité
+TO GO INTO RECESSION: entrer en récession
+AN UPSWING: reprise (économique), augmentation 
+A BOOMING ECONOMY: une économie florissante 
+GROWTH: la croissance
+A SHORTFALL: insuffisance, déficit, manque à gagner
+A WINDFALL (windfall-tax) : rentrée d’argent inattendue (taxe sur bénéfices exceptionnels)
+RETURN ON INVESTMENT: retour sur investissement
+TO PROMOTE (//DEMOTE) SB: promouvoir / rétrograder qn 
+OUTGOING CEO: pdg sortant (nouvellement ex-pdg)
+A GOLDEN HANDSHAKE: un parachute doré
+IT'S A HARD SELL: c'est difficile à faire accepter
+TO FOOT A BILL: payer la note (lit/fig)
+TO CASH IN ON STH: tirer profit de qch
+TO LEND,LOAN (bank loan): prêter ( emprunt bancaire)
+TO BORROW: emprunter
+TO OWE MONEY TO SB: devoir de l'argent à qn 
+AN OVERDAFT: un découvert
+TO BE IN DEBT: avoir des dettes
+TO BE IN THE RED: être dans le rouge
+TO BE IN THE BLACK: avoir un solde créditeur
+TO PAY BACK / REPAY / REIMBURSE: rembourser
+TO DEFAULT ON STH: ne pas s acquitter de (/ d’une dette)
+A DUD CHEQUE (to bounce) : chèque sans provisions (être refusé, ne pas passer)
+A MONEY-LOSER: une affaire non rentable 
+A MONEYMAKER: une affaire lucrative
+A FACTORY/A PLANT (Us): une usine 
+A DEPARTMENT: un service
+A WORKSHOP: un atelier
+TO WORK ON THE LINE: travailler à la chaîne
+IN SB’S LINE OF WORK: dans le domaine d’activité de qn
+A DEVICE: un système, un appareil
+A HOUSEHOLD APPLIANCE: un appareil électroménager
+TO DESIGN: concevoir
+TO DEVELOP: mettre au point
+A PRODUCT (to produce): un produit ( produire )
+TO MASS-PRODUCE: produire en masse
+TO MANUFACTURE: fabriquer
+TO UPGRADE: moderniser
+A BUSINESS (business): une affaire, un commerce (affaires/commerce) 
+TO COMPUTERISE: informatiser
+TO SET UP A COMPANY /A FIRM (Us): créer une société
+A SUPPLIER: un fournisseur
+A SUBCONTRACTOR: un sous-traitant
+A BUSINESSMAN: un homme d'affaires
+THE C-SUITE (=>CEO, CFO...): les huiles / cadres dirigeants
+A C.E.O. (CHIEF EXECUTIVE OFFICER): UN P.D.G.
+A MANAGING DIRECTOR: directeur général 
+A SENIOR EXECUTIVE: un cadre supérieur
+TO MANAGE/ TO RUN (A COMPANY): diriger (une entreprise) 
+BOOK-KEEPING: la comptabilité
+TO KEEP THE BOOKS: tenir les comptes
+TO COOK THE BOOKS: trafiquer les comptes
+SKIMMING: prélever secrètement de petites sommes
+TO CLIMB THE CORPORATE LADDER : gravir les échelons de l’entreprise
+TO IMPLEMENT: mettre en pratique
+TO OPERATE: faire fonctionner
+TO PERFORM: accomplir (tâche), (machine) fonctionner
+TO LAG BEHIND: avoir un retard (technologique)
+TO CATCH UP (WITH SB/STH): rattraper (qu/qch)
+TO PLAY CATCH UP (WITH): rattraper son retard, se mettre à la page 
+OBSOLETE / OUTDATED: désuet
+UP-TO-DATE / STATE-OF-THE-ART: moderne
+INNOVATIVE: innovant, novateur
+KNOW-HOW: le savoir faire
+HIGH TECH(NOLOGY): la haute technologie
+IT (INFORMATION TECHNOLOGY): l'informatique
+A COMPUTER SCIENTIST: un informaticien 
+DATA PROCESSING: traitement de données 
+A CHIP: une puce informatique
+PRODUCTIVITY GAINS: gains de productivité 
+THE TURNOVER: le chiffre d’affaires
+TO GAIN A MARKET SHARE: prendre une part de marché 
+AN INCREASE IN PROFIT : augmentation des profits 
+PROFIT-MAKING: lucratif
+CASH-STRAPPED : en proie à des difficultés financières, à court d’argent CORPORATE GREED: la cupidité des dirigeants d’entreprises 
+TO INCREASE/ TO RISE BY 10%: augmenter de 10%
+TO GROW UP TO 25%: croître jusqu'à 25%
+TO DECREASE BY 5%: diminuer de 5%
+TO FALL DOWN TO 10%: chuter jusqu'à 10% 
+PROFITABLE (profitability): rentable ( rentabilité) 
+FIERCE COMPETITION: la concurrence sauvage
+A COMPETITOR (competitive) : un concurrent ( concurrentiel)
+EFFICIENT (EFFICIENCY): efficace (efficacité)
+DEPENDABLE /RELIABLE (DEPENDABILITY / RELIABILITY): fiable (fiabilité)
+USER-FRIENDLY: facile d’utilisation
+TO SLOW DOWN: ralentir
+TO STAGNATE: stagner
+TO FALL / TO DROP TO 10%: tomber à 10%
+FACTORY CLOSURES: fermetures d’usines
+TO CLOSE DOWN: fermer définitivement
+TO LOSE BUSINESS: perdre sa clientèle
+TO GO BANKRUPT/ TO GO BELLY UP/ TO GO BUST (us): faire faillite
+PLANNED / BUILT-IN OBSOLESCENCE: obsolescence programmée
+A FLAW: un défaut de fabrication
+STH’S SHELF-LIFE: durée de vie d’un produit (sens littéral/figuré) 
+FAULTY / DEFECTIVE: défectueux
+TO RECALL A PRODUCT: rappeler un produit
+TO WITHDRAW A PRODUCT: retirer un produit du marché
+COUNTERFEIT /FAKE: faux, contrefait
+ELECTRONIC WASTE / E-WASTE: les déchets électroniques
+A COMPOSENT: composant 
+WiRELESS: sans fil
+USER-ORIENTED: grand public
+AN IMPROVEMENT (to improve): une amélioration (améliorer)
+COMPUTER-AIDED DESIGN (CAD): conception assistée par ordinateur (CAO) 
+TO BOOST PRODUCTIVITY :Stimuler la productivité
+TO RAISE / STEP UP PRODUCTION: accroître la production

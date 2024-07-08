@@ -1,0 +1,126 @@
+﻿Allowance: indemnité 
+Asset: atout 
+Blue-collar job: emploi manuel 
+Board director: membre du conseil d'administration 
+Breadwinner: source de revenus 
+Caring: bienveillant
+CEO (chief executive officer): PDG 
+Childcare : garderie
+childcare duties: devoirs parentaux 
+Chores : tâches ménagères 
+Community builder: bâtisseur communautaire 
+Competent = qualified = skilled : qualifié (3)
+Counterpart: homologue, équivalent 
+Detail oriented: minutieux 
+Domestic chores = housework : tâches domestiques (2)
+Egalitarian: égalitaire 
+Equal opportunity: égalité des chances 
+Equal pay: égalité des salaires 
+Expectations: attentes, espérances 
+Fair = just: juste (2)
+unfair = unjust : injuste (2)
+Female advancement: avancement des femmes 
+Female empowerment: émancipation des femmes 
+Female labour: main d'œuvre féminine 
+Gaping hole: trou béant 
+Gender blind : indépendant du sexe 
+Gender imbalance : déséquilibre entre les sexes 
+Gender pay gap: disparités de salaire entre les sexes 
+Gender stereotypical expectations: comportement stéréotypé selon le sexe 
+Glass ceiling: plafond de verre 
+High-ranking job: poste haut placé 
+Home-keeping: entretien de la maison 
+Household: foyer 
+Housewife : femme au foyer 
+Low-ranking job: poste à faible responsabilité 
+Male preserve : chasse gardée des hommes 
+Management position : poste de direction 
+Man-shaped : adapté aux hommes 
+Menial job : emploi subalterne 
+Monetised work: travail rémunéré 
+Nanny: nounou 
+Nursery = day-care centre: crèche (2)
+Obstacles = hardships = hurdles : obstacles, difficultés (3)
+Parenting: rôle/tâches parentales 
+Payoff: retombées, gain 
+Pink-collar job: emploi de col rose (dans les services) 
+Pregnancy: grossesse 
+Prejudice = bias: préjugé (2)
+Pressure: pression 
+Prone to : enclin à 
+Reliable = dependable: fiable (2)
+Second-class citizen: citoyen de second rang 
+Senior executive : cadre supérieur 
+Senior management: haute direction 
+Sexist: macho 
+Sexual harassment: harcèlement sexuel 
+Skill requirements: compétences requises 
+Stay-at-home dad: père au foyer 
+Successful: prospère, performant 
+To achieve equality with men : acquérir l'égalité avec les hommes 
+To acknowledge: reconnaître 
+To balance/combine work and family life : équilibrer le travail et la vie de famille 
+To be confined to: se limiter à 
+To be discriminated/prejudiced against: être victime de discrimination 
+To be entitled to: avoir droit à 
+To be held back: être freiné 
+To be inspiring/inspirational: être une source d'inspiration 
+To be judged on merit : être jugé au mérite 
+To be on an equal footing: être sur un pied d'égalité 
+To be valued: être valorisé
+To fall pregnant: tomber enceinte 
+To bring a unique contribution: apporter un plus 
+To bring up/raise children: élever des enfants 
+To climb up the social ladder: gravir l'échelle sociale 
+To close the gap: réduire le fossé 
+To demote: rétrograder 
+To deserve: mériter 
+To diversify workforces: diversifier la main d'œuvre 
+To do the housework: faire le ménage 
+To earn: gagner/earnings: gains 
+To establish quotas: établir des quotas 
+To face barriers: faire face à des barrières 
+To fight for recognition: lutter pour la reconnaissance 
+To fulfil : satisfaire, combler 
+To get things done : accomplir des choses 
+To go on maternity leave: partir en congé maternité 
+To have an edge: avoir un avantage 
+To juggle/reconcile a career and family life: concilier carrière et vie de famille 
+To look after: s'occuper de 
+To make decisions: prendre des décisions 
+To make money: gagner de l'argent 
+To multitask: faire plusieurs choses en même temps 
+To out-earn: gagner plus 
+To outperform = outscore: surpasser (2)
+To overcome: surmonter 
+To perform : accomplir 
+To praise: vanter les mérites de 
+To prevent sb from + V-ing = stop sb from + V-ing: empêcher quelqu'un de 
+To prioritise: privilégier 
+To promote : promouvoir, favoriser 
+To prove one's worth: prouver ce qu'on vaut 
+To pull strings: exercer des pressions, être pistonné 
+To put a career on hold: mettre une carrière en suspens 
+To rise to the top : atteindre le sommet 
+To run a company: diriger une entreprise 
+To run errands: faire des courses 
+To sacrifice : sacrifier 
+To scorn = despise : mépriser (2)
+To share household tasks: partager les tâches ménagères 
+To shortlist: présélectionner 
+To strive for: aspirer à 
+To struggle = fight: lutter (2)
+To succeed in + V-ing = manage to: réussir à 
+To take extended time off from work: s'absenter du travail de façon prolongée 
+To take the lion's share: se tailler la part du lion 
+To take up a challenge : relever un défi
+To value : valoriser 
+To disparage =  to devalue : dévaloriser (2)
+To waste talent: gâcher le talent 
+To work part-time/full-time : travailler à mi-temps/temps plein 
+Under-represented: sous-représenté 
+Unequal: inégal 
+Wage gap: fossé des salaires 
+Wages = salary = income: salaire (3)
+Welfare benefits: aides sociales 
+White-collar job: emploi de bureau
