@@ -1,5 +1,8 @@
 # MPI* Prime
-Git de suivi de la MPI(*) du lycée Faidherbe.
+Salut à toi cher MPI(*) de la G05, tu trouveras ci-dessous les ressources de certains de tes khârrés et khûbes 228-229 qui ont gentiment accepté de partager leurs ressources avec leur ancienne classe afin que tu puisses tout défoncer aux concours. Fiches, corrigés et rapports d'épreuves, tout est là pour que t'arrives en légendeee aux épreuves et que t'évites ces magnifiques flops qu'on a vécu pendant nos années de sup' et de spé 😎
+<br /> 
+<br /> 
+Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas de page si jamais, maintenant c'est à toi de jouer, la balle est dans ton camp 🫶
 
 
 ## Ressources
