@@ -38,4 +38,6 @@ Elles sont présentes ici sous deux formes :
 
 -"theme_numero_titre.txt" sont les fichiers de vocabulaires séparés, vous pouvez les importer sur anki en prenant pour séparateur de champ ":" et séparateur de ligne le retour à la ligne
 
+Les fiches du type "unit_nb_nom.txt" représentent le vocabulaire récupéré dans les dossiers que M. Hurtrez vous donnera tout au long de l'année...
+
 
