@@ -18,7 +18,7 @@
 * Chapitre 8 - Complexité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complexite.pdf)
 * Chapitre 9 - Que faire avec des problèmes NP-Complets ? :
 * Chapitre 10 - Logique :
-* Chapitre 11 - Parallélisation, concurrence et synchronisation :
+* Chapitre 11 - Parallélisation, concurrence et synchronisation : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_concu.pdf)
 * Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf)
 * Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf)
 
