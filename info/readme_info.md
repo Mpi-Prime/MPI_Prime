@@ -15,7 +15,7 @@
 * Chapitre 5 - Grammaires non-contextuelles : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_grammaires.pdf)
 * Chapitre 6 - Recherches d'arbre couvrant de poids minimal : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_arbrecouvrant.pdf)
 * Chapitre 7 - Décidabilité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_decidabilite.pdf)
-* Chapitre 8 - Complexité :
+* Chapitre 8 - Complexité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complexite.pdf)
 * Chapitre 9 - Que faire avec des problèmes NP-Complets ? :
 * Chapitre 10 - Logique :
 * Chapitre 11 - Parallélisation, concurrence et synchronisation :
