@@ -47,7 +47,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 
 ## Nous contacter
-  * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev)
-  * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9)
-  * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet)
-  * clovisj59790@gmail.com
+  * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev) | [LinkedIn](https://www.linkedin.com/in/oliviercaffier/)
+  * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9) | [LinkedIn](https://www.linkedin.com/in/william-hasley-28b469296/)
+  * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet) | [LinkedIn](https://www.linkedin.com/in/augustine-picquet/)
+  * clovisj59790@gmail.com | [LinkedIn](https://www.linkedin.com/in/clovis-johnson-79b17b196/)
