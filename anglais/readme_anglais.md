@@ -28,7 +28,7 @@
 ### Quelques fiches et _first aid kit_
 ### Les news 
 
-### Fiches vocabulaire : 
+### Fiches vocabulaire 
 Voici les cartes de vocabulaire d'anglais de votre année de MPI(*)
 
 Elles sont basées sur le fichiers de vocabulaire que vous devriez recevoir au format papier en septembre
