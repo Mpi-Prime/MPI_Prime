@@ -8,7 +8,7 @@
 
 ## Cours
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
-* Chapitre 1 - Jeux :
+* Chapitre 1 - Jeux : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_jeux.pdf)
 * Chapitre 2 - Langages : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_langages.pdf)
 * Chapitre 3 - Union-Find : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_unionfind.pdf)
 * Chapitre 4 - Compléments d'algo des graphes : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complementsgraphes.pdf)
