@@ -32,6 +32,6 @@
   * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
 
 ## Quelques suppléments (ne pas aller à l'ENS sans ça)
-  * Nombre de Catalan - démonstration : ⏳⌛️
+  * Nombre de Catalan : [Démonstration 1](/info/bonus/info_khube_catalandemo.pdf) 
   * Théorème maître - démonstration : ⏳⌛️
   * TP_ENS_1 - ?? : ⏳⌛️
