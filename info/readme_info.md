@@ -19,8 +19,8 @@
 * Chapitre 9 - Que faire avec des problèmes NP-Complets ? :
 * Chapitre 10 - Logique :
 * Chapitre 11 - Parallélisation, concurrence et synchronisation :
-* Chapitre 12 - Apprentissage supervisé :
-* Chapitre 13 - Apprentissage non supervisé : 
+* Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf)
+* Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf)
 
 ## Travaux Dirigés
   * TD1 :
