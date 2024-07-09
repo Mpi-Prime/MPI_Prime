@@ -14,7 +14,7 @@
 * Chapitre 4 - Compléments d'algo des graphes : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complementsgraphes.pdf)
 * Chapitre 5 - Grammaires non-contextuelles : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_grammaires.pdf)
 * Chapitre 6 - Recherches d'arbre couvrant de poids minimal : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_arbrecouvrant.pdf)
-* Chapitre 7 - Décidabilité :
+* Chapitre 7 - Décidabilité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_decidabilite.pdf)
 * Chapitre 8 - Complexité :
 * Chapitre 9 - Que faire avec des problèmes NP-Complets ? :
 * Chapitre 10 - Logique :
