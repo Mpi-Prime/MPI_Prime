@@ -10,7 +10,7 @@
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
 * Chapitre 1 - Jeux :
 * Chapitre 2 - Langages : [Programme de khôlle (énoncé) ](/info/cours/spe/info_khube_pgkholles_langages.pdf)
-* Chapitre 3 - Union-Find :
+* Chapitre 3 - Union-Find : [Programme de khôlle (énoncé) ](/info/cours/spe/info_khube_pgkholles_unionfind.pdf)
 * Chapitre 4 - Compléments d'algo des graphes :
 * Chapitre 5 - Grammaires non-contextuelles :
 * Chapitre 6 - Recherches d'arbre couvrant de poids minimal :
