@@ -9,7 +9,7 @@
 ## Cours
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
 * Chapitre 1 :
-* Chapitre 2 - Langages : [Programme de khôlle (énoncé) ](/info/cour/spe/info_khube_pgkholles_langages.pdf)
+* Chapitre 2 - Langages : [Programme de khôlle (énoncé) ](info/cours/spe/info_khube_pgkholles_langages.pdf)
 
 ## Travaux Dirigés
   * TD1 :
