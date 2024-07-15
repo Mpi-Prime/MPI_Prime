@@ -19,7 +19,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 
 <div align="center"> <img src="/misc/images/augustine_et_olivier.png" alt="Augustine et Olivier (MPI* 2023-2025)" width="250"/> </div>
 <div align="center"> Augustine Picquet et Olivier Caffier  <br /> </div>
-<div align="center"> (MPI* 2023-2025)  <br /> </div>
+<div align="center"> (MPI* 2023-2024/2025)  <br /> </div>
 
 <br /> 
 <br /> 
