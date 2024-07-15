@@ -21,7 +21,7 @@
 * Chapitre 11 - Parallélisation, concurrence et synchronisation : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_concu.pdf)
 * Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf)
 * Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf)
-* Chapitre Bonus - Algorithmes de texte : [Cours complet](/info/cours/spe/info_spe_algo_texte.pdf)
+* Bonus - Algorithmes de texte : [Cours complet](/info/cours/spe/info_spe_algo_texte.pdf)
 
 ## Travaux Dirigés
   * TD1 :
