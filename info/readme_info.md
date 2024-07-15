@@ -31,6 +31,24 @@
 
 ## DNS
   * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
+## Annales 
+  * **DS**
+     * DS1 - 
+  * **CCINP**
+     * MPI 2024 : 
+     * MPI 2023 :
+  * **Centrale**
+     * MPI 2024 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2024/MPI/I016.pdf) 
+     * MPI 2023 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023/MPI/I012.pdf)
+  * **Mines-Ponts**
+     * MPI 2024 :
+        * INFO 1 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-1-MPI.pdf)
+        * INFO 2 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-2-MPI.pdf)
+     * MPI 2023
+        * INFO 1 :
+        * INFO 2 :
+  * **ENS**
+
 
 ## Quelques suppléments (ne pas aller à l'ENS sans ça)
   * Nombre de Catalan : [Démonstration](/info/bonus/info_khube_catalandemo.pdf) 
