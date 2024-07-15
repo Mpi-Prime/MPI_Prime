@@ -45,8 +45,8 @@
         * INFO 1 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-1-MPI.pdf)
         * INFO 2 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-2-MPI.pdf)
      * MPI 2023
-        * INFO 1 :
-        * INFO 2 :
+        * INFO 1 : [Énoncé](/info/annales/ccmp_2023_info1.pdf)
+        * INFO 2 : [Énoncé](/info/annales/ccmp_2023_info2.pdf)
   * **ENS**
 
 
