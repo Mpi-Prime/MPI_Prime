@@ -12,6 +12,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 * [Physique](/physique/readme_physique.md)
 * [Français](/français/readme_français.md)
 * [Anglais](/anglais/readme_anglais.md)
+* [Divers](/misc/misc.md)
 
 
   
