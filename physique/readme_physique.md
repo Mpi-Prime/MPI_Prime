@@ -13,3 +13,12 @@
 ## TPs
 
 ## Révisions
+### Les fiches de Clovis 
+   * Mécanique ⏳⌛️
+   * Traitement du signal ⏳⌛️
+   * Thermodynamique ⏳⌛️
+   * Optique ⏳⌛️
+   * Électromagnétisme ⏳⌛️
+   * Ondes électromagnétiques ⏳⌛️
+   * Quantique ⏳⌛️
+   * Chimie ⏳⌛️
