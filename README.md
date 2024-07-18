@@ -46,9 +46,14 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 <br /> 
 <br /> 
+<div align="center"> <img src="/misc/images/image_cv_lucas.jpg" alt="Lucas Valemberg" width="250"/> </div>
+<div align="center"> Lucas Valemberg <br /> </div>
+<div align="center"> (MPI 2023-2024)  <br /> </div>
 
 ## Nous contacter
   * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev) | [LinkedIn](https://www.linkedin.com/in/oliviercaffier/)
   * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9) | [LinkedIn](https://www.linkedin.com/in/william-hasley-28b469296/)
   * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet) | [LinkedIn](https://www.linkedin.com/in/augustine-picquet/)
   * clovisj59790@gmail.com | [LinkedIn](https://www.linkedin.com/in/clovis-johnson-79b17b196/)
+  * mabillotte.thibault@gmail.com
+  * lucas.valemberg@outlook.com | [LinkedIn](https://www.linkedin.com/in/lucas-valemberg-382696150/)
