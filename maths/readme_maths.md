@@ -13,8 +13,8 @@
   6. Espaces probabilisés, dénombrement : [Énoncé](/maths/kholles/maths_khube_kholle_6_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_6_corrige.pdf)
   7. Suites et séries de fonctions : [Énoncé](/maths/kholles/maths_khube_kholle_7_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_7_corrige.pdf)
   8. Séries entières : [Énoncé](/maths/kholles/maths_khube_kholle_8_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_8_corrige.pdf)
-  9. Intégration : ⏳⌛️
-  10. Variables aléatoires : ⏳⌛️
+  9. Intégration : [Énoncé](/maths/kholles/maths_khube_kholle_9_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_9_corrige.pdf)
+  10. Variables aléatoires : [Énoncé](/maths/kholles/maths_khube_kholle_10_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_10_corrige.pdf)
   11. Révisions (réductions, analyse) : ⏳⌛️
   12. Topologie : ⏳⌛️
   13. Espaces préhilbertiens et euclidiens : ⏳⌛️
