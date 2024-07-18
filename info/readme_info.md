@@ -35,8 +35,8 @@
   * **DS**
      * DS1 - 
   * **CCINP**
-     * MPI 2024 : 
-     * MPI 2023 :
+     * MPI 2024 : [Énoncé](https://www.concours-commun-inp.fr/_resource/annales%20%C3%A9crits/2024/MPI/2024_MPI5IN.pdf?download=true)
+     * MPI 2023 : [Énoncé](https://www.concours-commun-inp.fr/_resource/annales%20%C3%A9crits/MPI/2023/MPI5IN.pdf?download=true)
   * **Centrale**
      * MPI 2024 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2024/MPI/I016.pdf) 
      * MPI 2023 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023/MPI/I012.pdf)
