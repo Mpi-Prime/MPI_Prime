@@ -54,20 +54,21 @@
   * Nombre de Catalan : [Démonstration](/info/bonus/info_khube_catalandemo.pdf) 
   * Théorème maître : [Démonstration](/info/bonus/info_khube_mastertheorem.pdf)
   * TP_ENS_1 - ?? : ⏳⌛️
+  * Manuel d'informatique MP2I-MPI : ⏳⌛️
 
 ## Révisions 
 
 ### Les fiches de Clovis
- * Algo du texte
- * Graphes
- * Arbres
- * Arbres couvrants
- * Union-find
- * Automates
- * Grammaires
- * Calculabilité
- * Complexité
- * Concurrence
- * Intelligence artificielle
- * Jeux
- * Logique
+ * Algo du texte ⏳⌛️
+ * Graphes ⏳⌛️
+ * Arbres ⏳⌛️
+ * Arbres couvrants ⏳⌛️
+ * Union-find ⏳⌛️
+ * Automates ⏳⌛️
+ * Grammaires ⏳⌛️
+ * Calculabilité ⏳⌛️
+ * Complexité ⏳⌛️
+ * Concurrence ⏳⌛️
+ * Intelligence artificielle ⏳⌛️
+ * Jeux ⏳⌛️
+ * Logique ⏳⌛️
