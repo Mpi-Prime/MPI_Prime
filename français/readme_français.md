@@ -3,6 +3,8 @@
 ## À l'écrit
 
 ### Les cours
+  * Édith Wharton, _Le Temps de l'innocence_ ( [Présentation](https://caffiercaroline.fr/2024/07/25/edith-wharton-le-temps-de-linnocence/)
+      * Cours 1
 ### Les épreuves
 ### Les dissertations 
 ### Les résumés
