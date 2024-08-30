@@ -31,7 +31,7 @@
   * TP1 :
 ### 2023-2024
   * TP1 - Jeu de morpion :[Énoncé](/info/tp/2023_2024/info_spe_TP1_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP1_corrige.pdf)
-  * TP2 - Expressions rationnelles et automates : [Énoncé](/info/tp/2023_2024/info_spe_TP2_enonce.pdf)[Corrigé] |(/info/tp/2023_2024/info_spe_TP2_corrige.pdf)
+  * TP2 - Expressions rationnelles et automates : [Énoncé](/info/tp/2023_2024/info_spe_TP2_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP2_corrige.pdf)
   * TP3 - Exercices CCINP et automates en C-Grep : [Énoncé CCINP](/info/tp/2023_2024/info_spe_TP3_enonce_1.pdf), [Énoncé C-Grep](/info/tp/2023_2024/info_spe_TP3_enonce_2.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP3_corrige.pdf)
   * TP4 - Graphes : [Énoncé](/info/tp/2023_2024/info_spe_TP4_enonce.pdf)
   * TP5 - Autour de Dijkstra : [Énoncé](/info/tp/2023_2024/info_spe_TP5_enonce.pdf)
