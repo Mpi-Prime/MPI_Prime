@@ -30,16 +30,16 @@
 ### 2024-2025
   * TP1 :
 ### 2023-2024
-  * TP1 - Jeu de morpion : [Corrigé](/info/tp/2023_2024/info_spe_TP1_corrige.pdf)
-  * TP2 - Expressions rationnelles et automates : [Corrigé](/info/tp/2023_2024/info_spe_TP2_corrige.pdf)
+  * TP1 - Jeu de morpion :[Énoncé](/info/tp/2023_2024/info_spe_TP1_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP1_corrige.pdf)
+  * TP2 - Expressions rationnelles et automates : [Énoncé](/info/tp/2023_2024/info_spe_TP2_enonce.pdf)[Corrigé] |(/info/tp/2023_2024/info_spe_TP2_corrige.pdf)
   * TP3 - Exercices CCINP et automates en C-Grep : [Énoncé CCINP](/info/tp/2023_2024/info_spe_TP3_enonce_1.pdf), [Énoncé C-Grep](/info/tp/2023_2024/info_spe_TP3_enonce_2.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP3_corrige.pdf)
   * TP4 - Graphes : [Énoncé](/info/tp/2023_2024/info_spe_TP4_enonce.pdf)
   * TP5 - Autour de Dijkstra : [Énoncé](/info/tp/2023_2024/info_spe_TP5_enonce.pdf)
-  * TP6 - Appartenance à un langage algébrique : [Corrigé](/info/tp/2023_2024/info_spe_TP6_corrige.pdf)
+  * TP6 - Appartenance à un langage algébrique : [Énoncé](/info/tp/2023_2024/info_spe_TP6_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP6_corrige.pdf)
   * TP7 - Base de données : [Énoncé](/info/tp/2023_2024/info_spe_TP7_enonce.pdf) [(annexe)](/info/tp/2023_2024/info_spe_TP5_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP7_corrige.pdf)
-  * TP8 - Algorithmes probabilistes et d'approximation : [Corrigé](/info/tp/2023_2024/info_spe_TP8_corrigé.pdf)
+  * TP8 - Algorithmes probabilistes et d'approximation : [Énoncé](/info/tp/2023_2024/info_spe_TP8_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP8_corrigé.pdf)
   * TP9 - Branch and bound : [Énoncé](/info/tp/2023_2024/info_spe_TP9_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP9_corrige.pdf)
-  * TP10 - Utilisation de threads : [Corrigé](/info/tp/2023_2024/info_spe_TP10_corrige.pdf)
+  * TP10 - Utilisation de threads : [Énoncé](/info/tp/2023_2024/info_spe_TP10_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP10_corrige.pdf)
   * TP11 - Classification : [Énoncé](/info/tp/2023_2024/info_spe_TP11_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP11_corrige.pdf)
 
 ## DNS
