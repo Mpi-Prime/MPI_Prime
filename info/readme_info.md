@@ -30,7 +30,7 @@
 ### 2024-2025
   * TP1 :
 ### 2023-2024
-  * TP1 : 
+  * TP1 - Jeu de morpion : [Corrigé](/info/tp/2023_2024/info_spe_TP1_corrige.pdf)
 ## DNS
   * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
 ## Annales 
