@@ -4,6 +4,11 @@ Salut à toi cher MPI(*) de la G05, tu trouveras ci-dessous les ressources de ce
 <br /> 
 Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas de page si jamais, maintenant c'est à toi de jouer, la balle est dans ton camp 🫶
 
+<div align="center"> <img src="/misc/images/wallpaper.jpg" alt="Bon courage <3" width="600"/> </div>
+<br />  
+
+
+
 
 ## Ressources
 
