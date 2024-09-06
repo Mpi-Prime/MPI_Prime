@@ -13,6 +13,8 @@
 ## TPs
 
 ## Révisions
+### Les decks ANKI
+   * Mécanique : [Deck_meca](/physique/anki/anki_meca.apkg)
 ### Les fiches de Clovis 
    * Mécanique ⏳⌛️
    * Traitement du signal ⏳⌛️
