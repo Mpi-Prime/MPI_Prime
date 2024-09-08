@@ -3,7 +3,7 @@
 
 
 ## Programmes de khôlles 2024-2025
-  1. Révisions d'algèbre linéaire : [Énoncé](maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](maths_khube_kholle_S3_corrige.pdf) 🆕
+  1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S3_corrige.pdf) 🆕
 
 ## Programmes de khôlles 2023-2024
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
