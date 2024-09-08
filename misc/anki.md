@@ -13,6 +13,8 @@ Quant à nous, je t'invite à upload les fiches sur ton pc de la manière suivan
 
 et le tour est joué !
 
+<div align="center"> <img src="/misc/images/anki_meme.png" alt="Bon courage <3" width="600"/> </div>
+<br /> 
 
 ## Maths
   1. Compléments d'algèbre linéaire 
@@ -43,3 +45,4 @@ L'emoji 🕸️ dit qu'il s'agit du voca 2023-2024, 🆕 signifie que j'ai actua
   10. Nature and ecology : [Fichier txt](/anglais/theme_10_nature_and_ecology.txt) 🕸️
   11. Advertising and consumption : [Fichier txt](/anglais/theme_11_advertising_and_consumption) 🕸️
 
+ 
