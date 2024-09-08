@@ -1,10 +1,15 @@
-POLITICS: la politique ( A POLITICIAN =  un homme politique)
-A POLITICAL PARTS: un parti politique
+POLITICS: la politique (≠ A POLITICIAN =  un homme politique)
+A POLITICAL PARTY : un parti politique
 A POLICY-MAKER / A LAW-MAKER: un responsable politique
 DOMESTIC POLICY: politique intérieure
 FOREIGN POLICY: politique étrangère
+A FLAGSHIP POLICY: une politique phare
+THE WEST/THE EAST : L'Occident/L'Orient
 A HEAD OF STATE / HEAD OF GOVERNMENT: un chef d’Etat / de gvt 
 A RIGHT-WING / LEFT-WING PARTY: (parti) de droite /de gauche 
+A RIGHT-WINGER : de droite, un conservateur
+A LEFT-WINGER : de gauche, libéral/personne de gauche
+PROGRESSIVE/LIBERAL (US) : libéral (socialement)
 THE POLITICAL SPECTRUM: l'échiquier politique
 THE POLITICAL LANDSCAPE: le paysage politique
 POLITICAL CLOUT : influence politique
@@ -14,16 +19,17 @@ A HARD-LINER : un jusqu'au-boutiste / irréductible
 MIDDLE OF THE ROAD: centriste
 OF ALL STRIPES: de tout bord /de toutes les allégeances politiques
 TO RULE/LEAD/RUN A COUNTRY: diriger un pays
-THE INCOMBENT PRESIDENT: le président en exercice 
+THE INCUMBENT PRESIDENT: le président en exercice 
 A LAME-DUCK PRESIDENT: le président sortant
 TO RUN FOR OFFICE: se présenter à des élections
 FREE AND FAIR ELECTIONs : des élections libres et régulières
 TO CALL FOR AN ELECTION/A REFERENDUM:demander une élection 
 TO HOLD A REFERENDUM (ON): organiser un referendum (sur) 
 DEVOLUTION: décentralisation
-A GENERAL ELECTION: des élections législatives
+A GENERAL ELECTION (UK) : des élections législatives
 A BY-ELECTION: des élections législatives partielles
 A SNAP ELECTION: des élections anticipées
+AN MP (Member of Parliament, UK) / A CONGRESSMAN (Member of House of Representatives, US) : un député
 DICTATORSHIP: la dictature
 A COUP : un coup d'Etat
 TO TAKE/SEIZE POWER : s'emparer du pouvoir
@@ -35,10 +41,11 @@ A VOTER // A CONSTITUENT [UK]: un électeur
 A CONSTITUENCY [UK]: une circonscription
 VOTER ID: carte d’électeur
 A BALLOT BOX / BALLOT PAPER: une urne électorale / un bulletin de vote
+TO CAST A BALLOT : voter
 THE TURNOUT: la participation (// to east a ballot= to vote)
 A STAY-AWAY VOTER : un abstentionniste
 TO BACK / TO SUPPORT (A POLICY, SB): soutenir
-AN APPROVAL / POPUALRITY RATING: une côte de popularité 
+AN APPROVAL / POPULARITY RATING: une côte de popularité 
 TO ELECT SB: élire qn
 A PRIMARY ELECTION [Usj: une primaire
 THE REPUBLICAN / DEMOCRATIC NOMINEE: le candidat (officiel) du parti républicain / démocrate (dans une élection présidentielle) 
@@ -47,20 +54,22 @@ AN UNDERDOG/OUTSIDER: outsider / celui qui est donné perdant
 TO DROP OUT (OF THE RACE): se retirer (de la course)
 A CAMPAIGNER: un militant/ candidat en campagne
 CANVASSING: le démarchage électoral
-A PLATFORM: un programme électoral (//MANlFESTO= syn. mais à l’écrit)
+A PLATFORM: un programme électoral (//MANIFESTO= syn. mais à l’écrit)
 TO ENDORSE SB: apporter son soutien politique à qn
 THE TICKET (US): liste électorale portant le nom du président et du vice-président
 A BATTLEGROUND / SWING STATE: un Etat clef(dont le vote peut changerle cours d'une élection)
-TO WIN AN ELECTIoN: remporter une élection
+TO WIN AN ELECTION: remporter une élection
 -A LANDSLIDE VICTORY: une victoire écrasante ‹// to win by a landslide)
--A DEFEAT: une défaite
+-A CRUSHING DEFEAT: une défaite écrasante
 TO COME INTO OFFICE / POWER: arriver au pouvoir
 TO RESIGN FROM OFFICE / TO STEP DOWN: démissionner 
 TO IMPEACH: destituer (// IMPEACHMENT (N))
 TO MAKE (//GIVE, DELIVER) A SPEECH: faire un discours
 A SPOKESPERSON ( MAN / -WOMAN): un porte-parole
+TO SPEAK PLAINLY : parler franchement, en langage d'air
 A STUMP SPEECH: un discours de campagne (formaté, répété...)
 A POLITICAL OPPONENT: un opposant / adversaire politique
+TO ACT AS A MOUTHPIECE FOR SB/STH : se faire le porte-voix de
 TO SKEW SB'S OPINION: fausser/biaiser l'opinion de qn
 TO DIVIDE AND CONQUER (// RULE): diviser pour mieux régner
 A SPIN DOCTOR: un conseiller en communication
@@ -98,7 +107,7 @@ TO TARNISH A RÉPUTATION: ternir une réputation
 A STELLAR REPUTATIoN: une solide réputation (// IMPECCABLE)
 IT'S A SLIPPERY SLOPE: c est un terrain glissant
 TO STONEWALL: pratiquer la langue de bois
-TO DODGE AN ISsm: esquiver un problème/éluder une question
+TO DODGE AN ISSUE: esquiver un problème/éluder une question
 TO SWEEP STH UNDER THE CARPET: occulter / cacher qch
 TO HOLD SB ACCOUNTABLE (FOR STH): tenir qn pour responsable de
 TO MEND ONE'S WAYs: se racheter une conduit
@@ -113,6 +122,7 @@ TO INTRODUCE A BILL: présenter un projet de loi
 TO VOTE A LAW (ON STH): voter, adopter une loi (sur) 
 A RESHUFFLE (< A SHAKE-UP): un remaniement
 A LEGAL LOOPHOLE: un vide juridique / une échappatoire
+TO FIND A WORKAROUND : trouver un moyen de contourner (une loi, obligation, règle, obstacle)
 TO FLY IN THE FACE OF STH: aller à l’encontre de, faire fi de, contredire
 UNDER BRITISH LAW: Selon le droit britannique....
 TO PUT STH ON THE BACK BURNER: reléguer qch au second plan (remettre à plus tard)
@@ -130,6 +140,7 @@ THE THREAT LEVEL: le niveau d’alerte
 A LONE-WOLF (TERRORIST) ATTACK: un acte terroriste isolé
 9/11 ('NINE/ELEVEN'): le 11 septembre 2001
 7/7: les attentats de Londres du 7 juillet 2005
+THE 6th OF JANUARY ATTACK : l'attaque du Capitole du 6 janvier 2021
 TO STORM A BUILDING: prendre un bâtiment d’assaut
 THE AFTERMATH: les suites / conséquences (négatives) de qch
 FANATICISM: le fanatisme, 
@@ -139,7 +150,7 @@ THE NUCLEAR DETERRENT: la force de dissuasion nucléaire
 TO CONDONE TERRORISM: cautionner le terrorisme
 TO RESORT TO STH: avoir recours à qqch 
 SCARE TACTICs: le terrorisme psychologique 
-INDISCRlMINATE VIOLENCE: violence aveugle
+INDISCRIMINATE VIOLENCE: violence aveugle
 HOME-GROWN TERRORISM : terrorisme de l'intérieur (régional/national)
 TO THREATEN: menacer
 TO CARRY OUT A THREAT: mettre une menace à exécution
