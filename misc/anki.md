@@ -31,7 +31,7 @@ et le tour est joué !
 
 ### Vocabulaire
 L'emoji 🕸️ dit qu'il s'agit du voca 2023-2024, 🆕 signifie que j'ai actualisé le voca avec celui de cette année
-  1. Politics : [Fichier txt](/anglais/theme_1_politics.txt) 🆕
+  1. [Politics](/anglais/theme_1_politics.txt) 🆕
   2. The Media : [Fichier txt](/anglais/theme_2_the_media.txt) 🕸️
   3. Society, Family and education : [Fichier txt](/anglais/theme_3_society_family_and_education.txt) 🕸️
   4. Social tensions : [Fichier txt](/anglais/theme_4_social_tensions.txt) 🕸️
