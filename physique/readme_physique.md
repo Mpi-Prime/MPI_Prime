@@ -9,6 +9,7 @@
 
 ### Mécanique 
    1. TD Vacances : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
+   2. TD1 - Frottement de glissement : [Énoncé](/physique/td/meca/meca_TD1_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD1_corrige.pdf)
 
 ## TPs
 
