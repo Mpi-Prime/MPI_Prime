@@ -19,6 +19,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 * [Anglais](/anglais/readme_anglais.md)
 * [Divers](/misc/misc.md)
 * [ANKI Sphere](/misc/anki.md)
+* [Site de William](https://perso.eleves.ens-rennes.fr/people/william.hasley/)
 
 
   
