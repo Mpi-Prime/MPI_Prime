@@ -18,13 +18,12 @@
   8. Séries entières : [Énoncé](/maths/kholles/maths_khube_kholle_8_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_8_corrige.pdf)
   9. Intégration : [Énoncé](/maths/kholles/maths_khube_kholle_9_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_9_corrige.pdf)
   10. Variables aléatoires : [Énoncé](/maths/kholles/maths_khube_kholle_10_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_10_corrige.pdf)
-  11. Révisions (réductions, analyse) : ⏳⌛️
-  12. Topologie : ⏳⌛️
-  13. Espaces préhilbertiens et euclidiens : ⏳⌛️
-  14. Structures algébriques, arithmétique : ⏳⌛️
-  15. Intégrales à paramètre : ⏳⌛️
-  16. Équations différentielles : ⏳⌛️
-  17. Calcul différentiel : ⏳⌛️
+  11. Topologie : [Énoncé](/maths/kholles/maths_khube_kholle_17_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_17_corrige.pdf)
+  12. Espaces préhilbertiens et euclidiens : [Énoncé](/maths/kholles/maths_khube_kholle_19_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_19_corrige.pdf)
+  13. Structures algébriques, arithmétique : [Énoncé](/maths/kholles/maths_khube_kholle_20_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_20_corrige.pdf)
+  14. Intégrales à paramètre : [Énoncé](/maths/kholles/maths_khube_kholle_21_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_21_corrige.pdf)
+  15. Équations différentielles : [Énoncé](/maths/kholles/maths_khube_kholle_23_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_23_corrige.pdf)
+  16. Calcul différentiel : [Énoncé](/maths/kholles/maths_khube_kholle_24_enonce.pdf) | [Q_cours & Exos A](/maths/kholles/maths_khube_kholle_24_corrige.pdf)
 
   **Extra :** [Chaîne de William](https://www.youtube.com/@ColleExtraFdh)
 
