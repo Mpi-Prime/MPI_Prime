@@ -57,6 +57,12 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <div align="center"> Lucas Valemberg <br /> </div>
 <div align="center"> (MPI 2023-2024)  <br /> </div>
 
+<br /> 
+<br />
+<br /> 
+<div align="center"> Marc Burghgraeve <br /> </div>
+<div align="center"> (MPI* 2024-2025)  <br /> </div>
+
 ## Nous contacter
   * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev) | [LinkedIn](https://www.linkedin.com/in/oliviercaffier/)
   * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9) | [LinkedIn](https://www.linkedin.com/in/william-hasley-28b469296/)
@@ -64,3 +70,4 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
   * clovisj59790@gmail.com | [LinkedIn](https://www.linkedin.com/in/clovis-johnson-79b17b196/)
   * mabillotte.thibault@gmail.com
   * lucas.valemberg@outlook.com | [LinkedIn](https://www.linkedin.com/in/lucas-valemberg-382696150/)
+  * marc.burghgraeve@orange.fr 
