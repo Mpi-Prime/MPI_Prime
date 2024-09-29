@@ -1,5 +1,7 @@
 # ANKI sphere
+_By Augustine, Clovis et Olivier_
 
+ 
 Bienvenue sur l'interface ANKI de la classe, tu y retrouveras les fiches de révision pour toute l'année. L'application est gratuite sur PC et Android, payante sur iOS 😩
 
 Pour plus d'info sur l'installation de l'appli : [site de Anki](https://apps.ankiweb.net/)
