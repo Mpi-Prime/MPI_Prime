@@ -21,6 +21,11 @@ et le tour est joué !
 ## Maths
   1. Compléments d'algèbre linéaire 
   2. Espace vectoriels normés
+  3. Séries numériques et vectorielles
+  4. Réduction
+  5. Fonctions à valeurs vectorielles
+  6. Espaces probabilisés
+  7. Suites et séries de fonctions -> [ANKI_TH_ANALYSE](/maths/anki/th_analyse_vacances1.apkg)
 
 
 ## Physique
