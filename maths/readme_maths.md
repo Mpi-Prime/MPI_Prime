@@ -6,7 +6,8 @@ _By William, Olivier and Marc_
 ## Programmes de khôlles 2024-2025
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S3_corrige.pdf)
   2. Notion de norme et séries numériques ou à valeurs vectorielles : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S4_enonce.pdf) | [Q_cours & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S4_corrige.pdf) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S4_GroupeC_corrige.pdf) 🆕
-  3. Début de la réduction, orienté vers le polynôme caractéristique : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S5_enonce.pdf) | [Q_cours & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S5_corrige.pdf) 🆕
+  3. Début de la réduction, orienté vers le polynôme caractéristique : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S5_enonce.pdf) | [Q_cours & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S5_corrige.pdf)
+  4. Fin de la réduction, orienté vers le polynôme minimal :
 
 ## Programmes de khôlles 2023-2024
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
