@@ -56,6 +56,8 @@ _By William, Olivier and Marc_
 
 
 ## Révisions 
+### Les indispensables 
+  * Théorèmes d'analyse : [Les fondamentaux](/maths/fiches/maths_khube_th_analyse.pdf)
 ### Les Fiches de Clovis
   * Algèbre ⏳⌛️
   * Analyse ⏳⌛️
