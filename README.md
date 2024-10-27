@@ -99,6 +99,12 @@ De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
 <div align="center"> Marc Burghgraeve <br /> </div>
 <div align="center"> (MPI* 2024-2025)  <br /> </div>
 
+<br /> 
+<br />
+<br /> 
+<div align="center"> Julien Gery <br /> </div>
+<div align="center"> (MPI 2024-2025)  <br /> </div>
+
 ## Nous contacter
   * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev) | [LinkedIn](https://www.linkedin.com/in/oliviercaffier/)
   * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9) | [LinkedIn](https://www.linkedin.com/in/william-hasley-28b469296/)
@@ -106,4 +112,5 @@ De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
   * clovisj59790@gmail.com | [LinkedIn](https://www.linkedin.com/in/clovis-johnson-79b17b196/)
   * mabillotte.thibault@gmail.com
   * lucas.valemberg@outlook.com | [LinkedIn](https://www.linkedin.com/in/lucas-valemberg-382696150/)
-  * marc.burghgraeve@orange.fr 
+  * marc.burghgraeve@orange.fr
+  * julien@gery.me
