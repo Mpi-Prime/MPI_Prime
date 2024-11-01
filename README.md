@@ -8,6 +8,19 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br />  
 
 
+
+
+## Ressources
+
+* [Mathématiques](/maths/readme_maths.md)
+* [Informatique](/info/readme_info.md)
+* [Physique](/physique/readme_physique.md)
+* [Français](/français/readme_français.md)
+* [Anglais](/anglais/readme_anglais.md)
+* [Divers](/misc/misc.md)
+* [ANKI Sphere](/misc/anki.md)
+* [Site de William](https://perso.eleves.ens-rennes.fr/people/william.hasley/)
+
 ## Révisions
 Bonjour à toutes et à tous, 
 
@@ -45,19 +58,6 @@ Comme vous le savez, on change un peu d'orga chez les khûbes par rapport au rô
 
 
 De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
-
-## Ressources
-
-* [Mathématiques](/maths/readme_maths.md)
-* [Informatique](/info/readme_info.md)
-* [Physique](/physique/readme_physique.md)
-* [Français](/français/readme_français.md)
-* [Anglais](/anglais/readme_anglais.md)
-* [Divers](/misc/misc.md)
-* [ANKI Sphere](/misc/anki.md)
-* [Site de William](https://perso.eleves.ens-rennes.fr/people/william.hasley/)
-
-
   
 ## Contributeurs
 
