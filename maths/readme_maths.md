@@ -41,7 +41,7 @@ _By William, Olivier and Marc_
   2. Notion de norme : [Énoncé](/maths/td/maths_khube_td_2_enonce.pdf) 
   3. Suite et séries vectorielles, sommabilité : [Énoncé](/maths/td/maths_khube_td_3_enonce.pdf)
   4. Réduction : [Énoncé](/maths/td/maths_khube_td_4_enonce.pdf)
-  5. Fonctions à valeurs vectorielles : [Énoncé](/maths/td/maths_khube_td_5_enonce.pdf)
+  5. Fonctions à valeurs vectorielles : [Énoncé](/maths/td/maths_khube_td_5_enonce.pdf) | [Incontournables](/maths/td/maths_khube_td_5_incontournables.pdf) 🆕
   6. Espaces probabilisés : [Énoncé](/maths/td/maths_khube_td_6_enonce.pdf)
   7. Suites et séries de fonctions : [Énoncé](/maths/td/maths_khube_td_7_enonce.pdf)
   8. Séries entières : [Énoncé](/maths/td/maths_khube_td_8_enonce.pdf)
