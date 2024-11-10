@@ -19,6 +19,9 @@
 
 ## TPs
 
+### Traitement du signal 
+   1. Acquisition et analyse de Fourier : [énoncé](/physique/tp/signal/physique_khube_TP1_enonce.pdf)
+   2. Filtrage et analyse de Fourier : [énoncé](/physique/tp/signal/physique_khube_TP1_enonce.pdf)
 ## Révisions
 
 ### Les decks ANKI
