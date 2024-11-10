@@ -3,7 +3,8 @@ Salut à toi cher MPI(*) de la G05, tu trouveras ci-dessous les ressources de ce
 <br /> 
 <br /> 
 Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas de page si jamais, maintenant c'est à toi de jouer, la balle est dans ton camp 🫶
-
+<div align="right"> L'équipe de MPI* Prime</div>
+<br />  
 <div align="center"> <img src="/misc/images/wallpaper.jpg" alt="Bon courage <3" width="600"/> </div>
 <br />  
 
@@ -11,15 +12,46 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 
 
 ## Ressources
+<div align="center"> <img src="/misc/images/maths_cover.png" alt="Maths" width="600"/> </div>
+<div align="center"> <a href = "/maths/readme_maths.md" > Maths </a> </div>
 
-* [Mathématiques](/maths/readme_maths.md)
-* [Informatique](/info/readme_info.md)
-* [Physique](/physique/readme_physique.md)
-* [Français](/français/readme_français.md)
-* [Anglais](/anglais/readme_anglais.md)
-* [Divers](/misc/misc.md)
-* [ANKI Sphere](/misc/anki.md)
-* [Site de William](https://perso.eleves.ens-rennes.fr/people/william.hasley/)
+<br /> 
+<br /> 
+<br /> 
+
+<div align="center"> <img src="/misc/images/physique_cover.png" alt="Physique" width="250"/> </div>
+<div align="center"> <a href = "/physique/readme_physique.md" > Physique </a> </div>
+
+<br /> 
+<br /> 
+<br /> 
+
+<div align="center"> <img src="/misc/images/info_cover.png" alt="Info" width="250"/> </div>
+<div align="center"> <a href = "/info/readme_info.md" > Informatique </a> </div>
+
+<br /> 
+<br /> 
+<br /> 
+
+
+
+<div align="center"> <img src="/misc/images/english_cover.png" alt="Anglais" width="250"/> </div>
+<div align="center"> <a href = "/français/readme_français.md" > Français </a> & <a href = "/anglais/readme_anglais.md" > Anglais </a> </div>
+
+<br /> 
+<br /> 
+<br /> 
+
+<div align="center"> <img src="/misc/images/anki_meme.png" alt="Anki" width="250"/> </div>
+<div align="center"> <a href = "/misc/anki.md" > Anki </a> </div>
+
+<br /> 
+<br /> 
+<br /> 
+
+<div align="center"> <a href = "/misc/misc.md" > Divers </a> </div>
+
+
 
 ## Révisions
 Bonjour à toutes et à tous, 
