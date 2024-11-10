@@ -62,22 +62,24 @@ De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
 ## Contributeurs
 
 <div align="center"> <img src="/misc/images/augustine_et_olivier.png" alt="Augustine et Olivier (MPI* 2023-2025)" width="250"/> </div>
-<div align="center"> Augustine Picquet et Olivier Caffier  <br /> </div>
+<div align="center"> <a href = "https://github.com/augustinepicquet" > Augustine Picquet </a> & <a href="https://www.linkedin.com/in/oliviercaffier/"> Olivier Caffier  </a> <br /> </div>
 <div align="center"> (MPI* 2023-2024/2025)  <br /> </div>
-
+<div align="center"> ENS Ulm & Khûbe MPI <br /> </div>
 <br /> 
 <br /> 
 <br /> 
 <div align="center"> <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> </div>
 
-<div align="center"> William Hasley  <br /> </div>
+<div align="center"> <a href="https://github.com/Carson-9"> William Hasley </a> <br /> </div>
 <div align="center"> (MPI* 2022-2024) <br /> </div>
+<div align="center"> ENS Rennes <br /> </div>
 <br /> 
 <br /> 
 <br /> 
 <div align="center"> <img src="/misc/images/image_cv_clovis.png" alt="Clovis Johnson" width="250"/> </div>
-<div align="center"> Clovis Johnson <br /> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/clovis-johnson-79b17b196/"> Clovis Johnson </a> <br /> </div>
 <div align="center"> (MPI 2022-2023, MPI* 2023-2024)  <br /> </div>
+<div align="center"> TelecomSudParis <br /> </div>
 
 <br /> 
 <br /> 
@@ -85,13 +87,15 @@ De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
 <div align="center"> <img src="/misc/images/image_cv_thibault.png" alt="Thibault Mabillotte" width="250"/> </div>
 <div align="center"> Thibault Mabillotte <br /> </div>
 <div align="center"> (MPI 2023-2025)  <br /> </div>
+<div align="center"> Khûbe MPI <br /> </div>
 
 <br /> 
 <br /> 
 <br /> 
 <div align="center"> <img src="/misc/images/image_cv_lucas.jpg" alt="Lucas Valemberg" width="250"/> </div>
-<div align="center"> Lucas Valemberg <br /> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/lucas-valemberg-382696150/">  Lucas Valemberg  </a> <br /> </div>
 <div align="center"> (MPI 2023-2024)  <br /> </div>
+<div align="center"> Magistère Maths - Université Paris-Saclay <br /> </div>
 
 <br /> 
 <br />
