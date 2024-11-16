@@ -12,11 +12,13 @@
    2. Frottement de glissement : [Énoncé](/physique/td/meca/meca_TD1_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD1_corrige.pdf)
    3. Référentiel non galiléen : [Énoncé](/physique/td/meca/meca_TD2_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD2_corrige.pdf)
    4. Mécanique terrestre : [Énoncé](/physique/td/meca/meca_TD3_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD3_corrige.pdf)
-   5. Champ gravitationnel : [Énoncé](/physique/td/meca/meca_TD4_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD4_corrige.pdf) 🆕
+   5. Champ gravitationnel : [Énoncé](/physique/td/meca/meca_TD4_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD4_corrige.pdf) 
 
 ### Traitement du signal
-   1. Filtrage analogique : [Énoncé](/physique/td/signal/signal_TD1_enonce.pdf) | [Corrigé](/physique/td/signal/signal_TD1_corrige.pdf) 🆕
+   1. Filtrage analogique : [Énoncé](/physique/td/signal/signal_TD1_enonce.pdf) | [Corrigé](/physique/td/signal/signal_TD1_corrige.pdf) 
 
+### Électromagnétisme 
+   1. Électrostatique 1 : [Énoncé](/physique/td/electromag/electromag_TD1_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD1_corrige.pdf) 🆕
 ## TPs
 
 ### Traitement du signal 
