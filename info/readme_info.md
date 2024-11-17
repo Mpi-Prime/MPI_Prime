@@ -26,7 +26,7 @@
   * TD1 :
 
 ## Programmes de khôlles 2024-2025
- * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf) | [Énoncé](/info/cours/spe/programme_k1_corrige.pdf)
+ * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf) | [Corrigé](/info/cours/spe/programme_k1_corrige.pdf)
 ## Travaux pratiques
 ### 2024-2025
   * TP1 - Autour du hachage : [Énoncé](/info/tp/2024_2025/info_spe_tp1_enonce.pdf)
