@@ -11,6 +11,7 @@ _By William, Olivier and Marc_
   5. Fonctions à valeurs vectorielles : [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s9_cover.pdf) | [Q_cours A,B,C & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S9_corrige.pdf) 🆕
   6. Espaces probabilisés :  [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s10_cover.pdf) | [Q_cours A,B](/maths/kholles_2025/maths_khube_kholle_S10_corrige.pdf) 🆕
   7. Suites et séries de fonctions : [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s11_cover.pdf) | [Q_cours A,B](/maths/kholles_2025/maths_khube_kholle_S11_corrige.pdf) 🆕
+  8. Séries entières :
 
 ## Programmes de khôlles 2023-2024
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
