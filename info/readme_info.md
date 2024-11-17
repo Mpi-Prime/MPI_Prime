@@ -29,7 +29,10 @@
  * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf)
 ## Travaux pratiques
 ### 2024-2025
-  * TP1 :
+  * TP1 - Autour du hachage : [Énoncé](/info/tp/2024_2025/info_spe_tp1_enonce.pdf)
+  * TP2 - Expressions rationnelles et automates : [Énoncé](/info/tp/2024_2025/info_spe_tp2_enonce.pdf)
+  * TP3 - Taquin : [Énoncé](/info/tp/2024_2025/info_spe_tp3_enonce.pdf)
+  * TP4 - Manipulation de partitions et arbres couvrants : [Énoncé](/info/tp/2024_2025/info_spe_tp4_enonce.pdf)
 ### 2023-2024
   * TP1 - Jeu de morpion :[Énoncé](/info/tp/2023_2024/info_spe_TP1_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP1_corrige.pdf)
   * TP2 - Expressions rationnelles et automates : [Énoncé](/info/tp/2023_2024/info_spe_TP2_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP2_corrige.pdf)
