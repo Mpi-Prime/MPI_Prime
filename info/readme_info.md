@@ -5,7 +5,6 @@
  
 
 
-
 ## Cours
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
 * Chapitre 1 - Jeux : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_jeux.pdf)
@@ -26,6 +25,8 @@
 ## Travaux Dirigés
   * TD1 :
 
+## Programmes de khôlles 2024-2025
+ * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf)
 ## Travaux pratiques
 ### 2024-2025
   * TP1 :
