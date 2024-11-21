@@ -59,8 +59,8 @@
      * MPI 2023 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023/MPI/I012.pdf)
   * **Mines-Ponts**
      * MPI 2024 :
-        * INFO 1 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-1-MPI.pdf)
-        * INFO 2 : [Énoncé](https://www.concoursminesponts.fr/resources/INFO-2-MPI.pdf)
+        * INFO 1 : [Énoncé](https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/07/2024_INFO-1-MPI.pdf)
+        * INFO 2 : [Énoncé](https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/07/2024_INFO-2-MPI.pdf)
      * MPI 2023
         * INFO 1 : [Énoncé](/info/annales/ccmp_2023_info1.pdf)
         * INFO 2 : [Énoncé](/info/annales/ccmp_2023_info2.pdf)
