@@ -10,7 +10,7 @@ _By William, Olivier and Marc_
   4. Fin de la réduction, orienté vers le polynôme minimal : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S8_enonce.pdf) | [Q_cours A,B,C & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S8_corrige.pdf) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S8_GroupeC_corrige.pdf)
   5. Fonctions à valeurs vectorielles : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S9_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s9_cover.pdf) | [Q_cours A,B,C & Exos A,B](/maths/kholles_2025/maths_khube_kholle_S9_corrige.pdf) 🆕
   6. Espaces probabilisés : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S10_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s10_cover.pdf) | [Q_cours A,B](/maths/kholles_2025/maths_khube_kholle_S10_corrige.pdf) 🆕
-  7. Suites et séries de fonctions : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S11_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s11_cover.pdf) | [Q_cours A,B](/maths/kholles_2025/maths_khube_kholle_S11_corrige.pdf) 🆕
+  7. Suites et séries de fonctions : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S11_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s11_cover.pdf) | [Q_cours A,B](https://drive.google.com/file/d/1cl4k48zh0RkxyV6B__Hi0TGZV7GvMO11/view?usp=sharing) 🆕
   8. Séries entières :
 
 ## Programmes de khôlles 2023-2024
