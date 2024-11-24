@@ -74,6 +74,8 @@
   * Manuel d'informatique MP2I-MPI : ⏳⌛️
 
 ## Révisions 
+### LE Best-of à maitriser absolument 
+* Lien du [Best-Of](https://drive.google.com/drive/folders/1oqhQs7X_jV5RD7G6sC7B3eSH5CsNZmxa?usp=sharing)
 
 ### Les fiches de Clovis
  * Algo du texte ⏳⌛️
