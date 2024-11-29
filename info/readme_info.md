@@ -25,6 +25,7 @@
 ## Travaux Dirigés
   * TD1 :
   * TD_Reductions : [Corrigé](/info/td/info_khube_tdreduc_corrige.pdf)
+  * TD_Concurrence : [Corrigé](/info/td/info_spe_td_concu.pdf)
 
 ## Programmes de khôlles 2024-2025
  * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf) | [Corrigé de Marc](/info/cours/spe/programme_k1_corrige.pdf) | [Corrigé d'Olivier](/info/cours/spe/info_khube_kholle1.pdf)
