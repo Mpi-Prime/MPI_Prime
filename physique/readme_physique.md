@@ -19,7 +19,7 @@
    2. Filtrage numérique : [Énoncé](/physique/td/signal/signal_TD2_enonce.pdf) | [Corrigé](/physique/td/signal/signal_TD2_corrige.pdf)
 
 ### Électromagnétisme 
-→ [Le tout en un d'Électromag](/physique/td/electromag/electromag_tds_enonces.pdf)
+→ [Le tout en un d'Électromag](/physique/td/electromag/physique_khube_electromag_tds_enonces.pdf)
    1. Électrostatique 1 : [Énoncé](/physique/td/electromag/electromag_TD1_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD1_corrige.pdf) 
    2. Électrostatique 2 - Potentiel et tension : [Énoncé](/physique/td/electromag/electromag_TD2_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD2_corrige.pdf)
    3. Conduction électrique : [Énoncé](/physique/td/electromag/electromag_TD3_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD3_corrige.pdf) 🆕
