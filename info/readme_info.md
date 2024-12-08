@@ -24,7 +24,7 @@
 
 
 
-## Nos fondamentaux 
+## Nos fondamentaux (Publication prévue en Juin 2025)
  * Nos fondamentaux (CS version, l'intégrale) : ⏳⌛️
  * Nos fondamentaux (CS version, cours uniquement) : ⏳⌛️
  * Nos fondamentaux (CS version, TDs uniquement) : ⏳⌛️
