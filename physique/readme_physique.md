@@ -3,7 +3,17 @@
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
 
-
+## Cours 
+   * Nos fondamentaux (Physics edition) : ⏳⌛️
+### Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
+   * Mécanique
+   * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
+   * Traitement du signal & Électronique
+   * Thermodynamique
+   * Ondes électromagnétiques
+   * Optique
+   * Quantique
+   * Chimie
 
 ## TDs
 
