@@ -3,8 +3,10 @@
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
 
-## Cours 
-   * Nos fondamentaux (Physics edition) : ⏳⌛️
+## Nos fondamentaux (Sortie prévue en Juin 2025)
+   * Nos fondamentaux (Physics edition, l'intégrale) : ⏳⌛️
+   * Nos fondamentaux (Physics edition, le mémo) : ⏳⌛️
+   * Nos fondamentaux (Physics edition, le tout-en-un des TDs) : ⏳⌛️
 ### Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
