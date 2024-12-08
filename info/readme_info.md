@@ -22,6 +22,16 @@
 * Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf)
 * Bonus - Algorithmes de texte : [Cours complet](/info/cours/spe/info_spe_algo_texte.pdf)
 
+
+
+## Nos fondamentaux 
+ * Nos fondamentaux (CS version, l'intégrale) : ⏳⌛️
+ * Nos fondamentaux (CS version, cours uniquement) : ⏳⌛️
+ * Nos fondamentaux (CS version, TDs uniquement) : ⏳⌛️
+ * Nos fondamentaux (CS version, TPs uniquement) : ⏳⌛️
+ * Nos fondamentaux (CS version, Best-Of uniquement) : ⏳⌛️
+ * Nos fondamentaux (CS version, Bonus uniquement) : ⏳⌛️
+   
 ## Travaux Dirigés
 ### 2024-2025
   * TD_Reductions : [Corrigé](/info/td/info_khube_tdreduc_corrige.pdf)
