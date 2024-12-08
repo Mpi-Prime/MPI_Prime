@@ -3,6 +3,12 @@
 _By William, Olivier, Marc, Julien & Pierre_
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
+## Nos fondamentaux 
+  * Nos fondamentaux (Analysis Version) : ⏳⌛️
+  * Nos fondamentaux (Algebra Version) : ⏳⌛️
+  * Nos fondamentaux (Théorèmes d'analyse uniquement) : [Les fondamentaux](/maths/fiches/maths_khube_th_analyse.pdf)
+
+    
 ## Programmes de khôlles 2024-2025
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](https://drive.google.com/file/d/1t2VK7qIPlb5kFghAdTjBgcSefrz-t2o3/view?usp=sharing)
   2. Notion de norme et séries numériques ou à valeurs vectorielles : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S4_enonce.pdf) | [Q_cours & Exos A,B](https://drive.google.com/file/d/1AEApxWCa04y0sdhuVyrsfQrL2aZrR4dk/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S4_GroupeC_corrige.pdf) 
@@ -57,8 +63,7 @@ _By William, Olivier, Marc, Julien & Pierre_
 
 
 ## Révisions 
-### Les indispensables 
-  * Théorèmes d'analyse : [Les fondamentaux](/maths/fiches/maths_khube_th_analyse.pdf)
+
 ### Les Fiches de Clovis
   * Algèbre ⏳⌛️
   * Analyse ⏳⌛️
