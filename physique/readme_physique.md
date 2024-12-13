@@ -7,6 +7,7 @@
    * Nos fondamentaux (Physics edition, l'intégrale) : ⏳⌛️
    * Nos fondamentaux (Physics edition, le mémo) : ⏳⌛️
    * Nos fondamentaux (Physics edition, le tout-en-un des TDs) : ⏳⌛️
+
 ### Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
@@ -38,6 +39,9 @@
    4. Dipôle électrostatique : [Énoncé](/physique/td/electromag/electromag_TD4_enonce.pdf) |  [Corrigé](/physique/td/electromag/electromag_TD4_corrige.pdf) 🆕
    5. Magnétostatique : [Énoncé](/physique/td/electromag/electromag_TD5_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD5_corrige.pdf) 🆕
    6. Compléments de magnétostatique :
+
+### Thermodynamique 
+   0. Exercices de rappel : [Énoncé](/physique/td/thermo/thermo_TD0_enonce.pdf)
 ## TPs
 
 ### Traitement du signal 
