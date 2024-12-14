@@ -39,19 +39,19 @@
 
 ### 2023-2024
   * TD1 - Jeux à 2 joueurs
-  * TD2 - Parcours
+  * TD2 - Parcours : [Énoncé](/info/td/info_spe_td2_enonce.pdf) | [Corrigé](/info/td/info_spe_td2_corrige.pdf)
   * TD3 - Optimalité d'un algorithme glouton
-  * TD4 - Graphes
-  * TD5 - Grammaires
+  * TD4 - Graphes : [Énoncé](/info/td/info_spe_td4_enonce.pdf) | [Corrigé](/info/td/info_spe_td4_corrige.pdf)
+  * TD5 - Grammaires : [Énoncé](/info/td/info_spe_td5_enonce.pdf) | [Corrigé](/info/td/info_spe_td5_corrige.pdf)
   * TD6 - Grammaires non contextuelles déterministes
   * TD7 - Réductions
   * TD8 - Coupe-mini MC
-  * TD9 - Test de primalité probabilistes
+  * TD9 - Test de primalité probabilistes : [Énoncé](/info/td/info_spe_td9_enonce.pdf) | [Corrigé](/info/td/info_spe_td9_corrige.pdf)
   * TD10 - Coloriage
   * TD11 - Multiplication des nombres et transformée de Fourier
   * TD12 - Représentation des nombres : [Énoncé](/info/td/info_spe_td12_enonce.pdf) | [Corrigé](/info/td/info_spe_td12_corrige.pdf)
   * TD13 - Logique (part 1)
-  * TD14 - Lecteurs/rédacteurs
+  * TD14 - Lecteurs/rédacteurs : [Énoncé](/info/td/info_spe_td14_enonce.pdf) | [Corrigé](/info/td/info_spe_td14_corrige.pdf)
   * TD15 - Chomsky
   * TD16 - Robot de Chimie
   * TD17 - Graphes de flots
