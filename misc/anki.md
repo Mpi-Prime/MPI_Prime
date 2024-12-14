@@ -30,6 +30,7 @@ et le tour est joué !
 
 ## Physique
   1. [Mécanique](/physique/anki/anki_meca.apkg)
+  2. [Électromagnétisme](/physique/anki/anki_electromag.apkg)
 
      
 ## Informatique
