@@ -38,7 +38,26 @@
   * TD_Concurrence : [Corrigé](/info/td/info_spe_td_concu.pdf)
 
 ### 2023-2024
-  * Représentation des nombres : [Énoncé](/info/td/info_spe_td12_enonce.pdf) | [Corrigé](/info/td/info_spe_td12_corrige.pdf)
+  * TD1 - Jeux à 2 joueurs
+  * TD2 - Parcours
+  * TD3 - Optimalité d'un algorithme glouton
+  * TD4 - Graphes
+  * TD5 - Grammaires
+  * TD6 - Grammaires non contextuelles déterministes
+  * TD7 - Réductions
+  * TD8 - Coupe-mini MC
+  * TD9 - Test de primalité probabilistes
+  * TD10 - Coloriage
+  * TD11 - Multiplication des nombres et transformée de Fourier
+  * TD12 - Représentation des nombres : [Énoncé](/info/td/info_spe_td12_enonce.pdf) | [Corrigé](/info/td/info_spe_td12_corrige.pdf)
+  * TD13 - Logique (part 1)
+  * TD14 - Lecteurs/rédacteurs
+  * TD15 - Chomsky
+  * TD16 - Robot de Chimie
+  * TD17 - Graphes de flots
+  * TD18 - Théorème de Rice
+
+      
 ## Programmes de khôlles 2024-2025
  * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf) |  [Corrigé d'Olivier](/info/cours/spe/info_khube_kholle1.pdf) | [Corrigé de Marc](/info/cours/spe/programme_k1_corrige.pdf)  | [Corrigé de Thibault](/info/cours/spe/programme_1.pdf)
  * Khôlle 2 : [Corrigé de Thibault](/info/cours/spe/programme_2.pdf)
