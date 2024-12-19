@@ -52,11 +52,4 @@
 ### Les decks ANKI
    * Mécanique : [Deck_meca](/physique/anki/anki_meca.apkg)
 ### Les fiches de Clovis 
-   * Mécanique ⏳⌛️
-   * Traitement du signal ⏳⌛️
-   * Thermodynamique ⏳⌛️
-   * Optique ⏳⌛️
-   * Électromagnétisme ⏳⌛️
-   * Ondes électromagnétiques ⏳⌛️
-   * Quantique ⏳⌛️
-   * Chimie ⏳⌛️
+ Le lien vers le Onedrive : [Fiches de Clovis](https://onedrive.live.com/?authkey=%21AKAyskL%5FuKhhXtE&id=247C42F66BD86EF0%213959&cid=247C42F66BD86EF0)
