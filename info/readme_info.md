@@ -112,16 +112,4 @@
 * Lien du [Best-Of](https://drive.google.com/drive/folders/1oqhQs7X_jV5RD7G6sC7B3eSH5CsNZmxa?usp=sharing)
 
 ### Les fiches de Clovis
- * Algo du texte ⏳⌛️
- * Graphes ⏳⌛️
- * Arbres ⏳⌛️
- * Arbres couvrants ⏳⌛️
- * Union-find ⏳⌛️
- * Automates ⏳⌛️
- * Grammaires ⏳⌛️
- * Calculabilité ⏳⌛️
- * Complexité ⏳⌛️
- * Concurrence ⏳⌛️
- * Intelligence artificielle ⏳⌛️
- * Jeux ⏳⌛️
- * Logique ⏳⌛️
+  Le lien vers le Onedrive : [Fiches de Clovis](https://onedrive.live.com/?authkey=%21AKAyskL%5FuKhhXtE&id=247C42F66BD86EF0%213959&cid=247C42F66BD86EF0)
