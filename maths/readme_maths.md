@@ -67,12 +67,4 @@ _By William, Olivier, Marc, Julien & Pierre_
 ## Révisions 
 
 ### Les Fiches de Clovis
-  * Algèbre ⏳⌛️
-  * Analyse ⏳⌛️
-  * THÉORÈMES D'ANALYSE ⏳⌛️
-  * Groupes ⏳⌛️
-  * Probabilités ⏳⌛️
-  * Topologie ⏳⌛️
-  * Trigonométrie et complexes ⏳⌛️
-  * Calcul différentiel ⏳⌛️
-  * Équations différentielles ⏳⌛️
+ Le lien vers le Onedrive : [Fiches de Clovis](https://onedrive.live.com/?authkey=%21AKAyskL%5FuKhhXtE&id=247C42F66BD86EF0%213959&cid=247C42F66BD86EF0)
