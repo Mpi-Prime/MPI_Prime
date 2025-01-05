@@ -61,6 +61,7 @@
 ## Programmes de khôlles 2024-2025
  * Khôlle 1 : [Énoncé](/info/cours/spe/programme_k1.pdf) |  [Corrigé d'Olivier](/info/cours/spe/info_khube_kholle1.pdf) | [Corrigé de Marc](/info/cours/spe/programme_k1_corrige.pdf)  | [Corrigé de Thibault](/info/cours/spe/programme_1.pdf)
  * Khôlle 2 : [Corrigé de Thibault](/info/cours/spe/programme_2.pdf)
+ * Khôlle 3 : [Corrigé d'Olivier (Partie 2)](/info/cours/spe/info_khube_kholle3.pdf)
 ## Travaux pratiques
 ### 2024-2025
   * TP1 - Autour du hachage : [Énoncé](/info/tp/2024_2025/info_spe_tp1_enonce.pdf)
