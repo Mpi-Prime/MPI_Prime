@@ -42,6 +42,10 @@
 
 ### Thermodynamique 
    0. Exercices de rappel : [Énoncé](/physique/td/thermo/thermo_TD0_enonce.pdf)
+   1. Conduction - Régime continu :
+   2. Conduction - Régime variable :
+   3. Conducto-convection :
+   4. Rayonnement : 
 ## TPs
 
 ### Traitement du signal 
