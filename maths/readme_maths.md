@@ -17,9 +17,10 @@ _By William, Olivier, Marc, Julien & Pierre_
   5. Fonctions à valeurs vectorielles : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S9_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s9_cover.pdf) | [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/1l8duEe_jgpJQGBahBXywUzZwvW3atvyD/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S9_GroupeC_corrige.pdf)
   6. Espaces probabilisés : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S10_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s10_cover.pdf) | [Q_cours A,B](https://drive.google.com/file/d/125z_pnNnvHKx0rp9GI-GLhXA8M9-k5XX/view?usp=drivesdk) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S10_GroupeC_corrige.pdf) 🆕
   7. Suites et séries de fonctions : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S11_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s11_cover.pdf) | [Q_cours A,B](https://drive.google.com/file/d/1cl4k48zh0RkxyV6B__Hi0TGZV7GvMO11/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S11_GroupeC_corrige.pdf)🆕
-  8. Séries entières : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S13_enonce.pdf) | [Exos A,B](/maths/kholles_2025/maths_khube_kholle_S13_exos.pdf)
+  8. Séries entières : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S13_enonce.pdf) | [Exos A,B](/maths/kholles_2025/maths_khube_kholle_S13_exos.pdf) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S14_GroupeC_corrige.pdf)
   9. Intégration : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S14_enonce.pdf) | [Cours + Exos A,B](https://drive.google.com/file/d/1OkDRKiFeXuzvaEZXkyJL_uFdCnbhTXke/view?usp=sharing)
-  10. Variables aléatoires : [Q_cours A,B & Exos A,B](https://drive.google.com/file/d/1kQeC_bgmhERI3LdUo-EJI5hbMususlcT/view?usp=sharing)
+  10. Variables aléatoires : [Q_cours A,B & Exos A,B](https://drive.google.com/file/d/1kQeC_bgmhERI3LdUo-EJI5hbMususlcT/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S15_GroupeC_corrige.pdf)
+  11. Espaces euclidiens : [Q_cours A,B](https://drive.google.com/file/d/12eBNiGVBGR5mdoki7Dca5dsRN-AdlpTp/view?usp=drive_link)
 
 ## Programmes de khôlles 2023-2024
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
