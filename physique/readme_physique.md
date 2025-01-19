@@ -35,14 +35,14 @@
 → [Le tout en un d'Électromag](/physique/td/electromag/physique_khube_electromag_tds_enonces.pdf)
    1. Électrostatique 1 : [Énoncé](/physique/td/electromag/electromag_TD1_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD1_corrige.pdf) 
    2. Électrostatique 2 - Potentiel et tension : [Énoncé](/physique/td/electromag/electromag_TD2_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD2_corrige.pdf)
-   3. Conduction électrique : [Énoncé](/physique/td/electromag/electromag_TD3_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD3_corrige.pdf) 🆕
-   4. Dipôle électrostatique : [Énoncé](/physique/td/electromag/electromag_TD4_enonce.pdf) |  [Corrigé](/physique/td/electromag/electromag_TD4_corrige.pdf) 🆕
-   5. Magnétostatique : [Énoncé](/physique/td/electromag/electromag_TD5_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD5_corrige.pdf) 🆕
+   3. Conduction électrique : [Énoncé](/physique/td/electromag/electromag_TD3_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD3_corrige.pdf) 
+   4. Dipôle électrostatique : [Énoncé](/physique/td/electromag/electromag_TD4_enonce.pdf) |  [Corrigé](/physique/td/electromag/electromag_TD4_corrige.pdf) 
+   5. Magnétostatique : [Énoncé](/physique/td/electromag/electromag_TD5_enonce.pdf) | [Corrigé](/physique/td/electromag/electromag_TD5_corrige.pdf) 
    6. Compléments de magnétostatique :
 
 ### Thermodynamique 
    0. Exercices de rappel : [Énoncé](/physique/td/thermo/thermo_TD0_enonce.pdf)
-   1. Conduction - Régime continu : [Énoncé](/physique/td/thermo/thermo_TD1_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD1_corrige.pdf)
+   1. Conduction - Régime continu : [Énoncé](/physique/td/thermo/thermo_TD1_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD1_corrige.pdf) 🆕
    2. Conduction - Régime variable : [Énoncé](/physique/td/thermo/thermo_TD2_enonce.pdf)
    3. Conducto-convection : [Énoncé](/physique/td/thermo/thermo_TD3_enonce.pdf)
    4. Rayonnement : 
