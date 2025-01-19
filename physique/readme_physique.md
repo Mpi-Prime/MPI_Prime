@@ -42,9 +42,9 @@
 
 ### Thermodynamique 
    0. Exercices de rappel : [Énoncé](/physique/td/thermo/thermo_TD0_enonce.pdf)
-   1. Conduction - Régime continu :
-   2. Conduction - Régime variable :
-   3. Conducto-convection :
+   1. Conduction - Régime continu : [Énoncé](/physique/td/thermo/thermo_TD1_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD1_corrige.pdf)
+   2. Conduction - Régime variable : [Énoncé](/physique/td/thermo/thermo_TD2_enonce.pdf)
+   3. Conducto-convection : [Énoncé](/physique/td/thermo/thermo_TD3_enonce.pdf)
    4. Rayonnement : 
 ## TPs
 
