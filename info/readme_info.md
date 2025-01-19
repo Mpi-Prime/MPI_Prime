@@ -36,6 +36,7 @@
 ### 2024-2025
   * TD_Reductions : [Corrigé](/info/td/info_khube_tdreduc_corrige.pdf)
   * TD_Concurrence : [Corrigé](/info/td/info_spe_td_concu.pdf)
+  * TD_Approx : [Corrigé](/info/td/info_khube_tdapprox_corrige.pdf)
 
 ### 2023-2024
   * TD1 - Jeux à 2 joueurs
