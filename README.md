@@ -150,6 +150,12 @@ De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
 <br /> 
 <br />
 <br /> 
+<div align="center"> Noélien Dutilleul <br /> </div>
+<div align="center"> (MPI* 2024-2025)  <br /> </div>
+
+<br /> 
+<br />
+<br /> 
 <div align="center"> Florent Deplacie <br /> </div>
 <div align="center"> (MPI 2023-2025)  <br /> </div>
 
