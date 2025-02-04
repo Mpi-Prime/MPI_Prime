@@ -18,10 +18,10 @@ _By William, Olivier, Marc, Julien & Pierre_
   6. Espaces probabilisés : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S10_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s10_cover.pdf) | [Q_cours A,B](https://drive.google.com/file/d/125z_pnNnvHKx0rp9GI-GLhXA8M9-k5XX/view?usp=drivesdk) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S10_GroupeC_corrige.pdf) 
   7. Suites et séries de fonctions : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S11_enonce.pdf) | [Énoncé à trous](/maths/kholles_2025/maths_khube_kholle_s11_cover.pdf) | [Q_cours A,B](https://drive.google.com/file/d/1cl4k48zh0RkxyV6B__Hi0TGZV7GvMO11/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S11_GroupeC_corrige.pdf)
   8. Séries entières : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S13_enonce.pdf) | [Exos A,B](/maths/kholles_2025/maths_khube_kholle_S13_exos.pdf) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S14_GroupeC_corrige.pdf)
-  9. Intégration : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S14_enonce.pdf) | [Cours + Exos A,B](https://drive.google.com/file/d/1OkDRKiFeXuzvaEZXkyJL_uFdCnbhTXke/view?usp=sharing)
+  9. Intégration : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S14_enonce.pdf) | [Cours + Exos A,B](https://drive.google.com/file/d/1OkDRKiFeXuzvaEZXkyJL_uFdCnbhTXke/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S14_GroupeC_corrige.pdf)
   10. Variables aléatoires : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S15_enonce.pdf) | [Q_cours A,B & Exos A,B](https://drive.google.com/file/d/1kQeC_bgmhERI3LdUo-EJI5hbMususlcT/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S15_GroupeC_corrige.pdf)
-  11. Espaces euclidiens : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S17_enonce.pdf) | [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/12eBNiGVBGR5mdoki7Dca5dsRN-AdlpTp/view?usp=drive_link)
-  12. Intégrales à paramètres : [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/1mlBd_QYZlbaJsWeeGSZKK-epI-HiuhuE/view?usp=drive_link) 
+  11. Espaces euclidiens : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S17_enonce.pdf) | [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/12eBNiGVBGR5mdoki7Dca5dsRN-AdlpTp/view?usp=drive_link) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S17_GroupeC_corrige.pdf)
+  12. Intégrales à paramètres : [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/1mlBd_QYZlbaJsWeeGSZKK-epI-HiuhuE/view?usp=drive_link) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S18_GroupeC_corrige.pdf)
   13. Topologie : 
   14. Structures algébriques : 
   15. Équations différentielles :
