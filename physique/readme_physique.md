@@ -45,7 +45,11 @@
    1. Conduction - Régime continu : [Énoncé](/physique/td/thermo/thermo_TD1_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD1_corrige.pdf) 
    2. Conduction - Régime variable : [Énoncé](/physique/td/thermo/thermo_TD2_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD2_corrige.pdf) 
    3. Conducto-convection : [Énoncé](/physique/td/thermo/thermo_TD3_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD3_corrige.pdf) 
-   4. Rayonnement : 
+   4. Rayonnement :
+
+### Ondes électromagnétiques
+  1. Td calculs… : boycott
+  2. Énergie, polarisation : [Énoncé](/physique/td/thermo/ondes_TD2_enonce.pdf) | [Corrigé](/physique/td/thermo/ondes_TD2_corrige.pdf) 
 ## TPs
 
 ### Traitement du signal 
