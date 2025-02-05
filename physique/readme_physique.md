@@ -49,7 +49,7 @@
 
 ### Ondes électromagnétiques
   1. Td calculs… : boycott
-  2. Énergie, polarisation : [Énoncé](/physique/td/thermo/ondes_TD2_enonce.pdf) | [Corrigé](/physique/td/thermo/ondes_TD2_corrige.pdf) 
+  2. Énergie, polarisation : [Énoncé](/physique/td/electromag/ondes_TD2_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD2_corrige.pdf) 
 ## TPs
 
 ### Traitement du signal 
