@@ -22,10 +22,10 @@ _By William, Olivier, Marc, Julien & Pierre_
   10. Variables aléatoires : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S15_enonce.pdf) | [Q_cours A,B & Exos A,B](https://drive.google.com/file/d/1kQeC_bgmhERI3LdUo-EJI5hbMususlcT/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S15_GroupeC_corrige.pdf)
   11. Espaces euclidiens : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S17_enonce.pdf) | [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/12eBNiGVBGR5mdoki7Dca5dsRN-AdlpTp/view?usp=drive_link) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S17_GroupeC_corrige.pdf)
   12. Intégrales à paramètres : [Q_cours A,B,C & Exos A,B](https://drive.google.com/file/d/1mlBd_QYZlbaJsWeeGSZKK-epI-HiuhuE/view?usp=drive_link) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S18_GroupeC_corrige.pdf)
-  13. Topologie : 
-  14. Structures algébriques : 
+  13. Topologie : [Q_cours A,B](https://drive.google.com/file/d/1fC25f9mMXfjMUhbHnNoe5F9MIMGK6bSA/view?usp=sharing)
+  14. Structures algébriques : [Q_cours A,B](https://drive.google.com/file/d/1G0zByhLAp6YWV-uD9mgHti06t6J9ckcR/view?usp=sharing)
   15. Équations différentielles :
-  16. Calcul différentiel :
+  16. Calcul différentiel : [Q_cours A,B](https://drive.google.com/file/d/1pmWM0_tHrxHY1egjtMJyuBHI-hyKHGpK/view?usp=sharing)
 
 ## Programmes de khôlles 2023-2024
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles/maths_khube_kholle_1_enonce.pdf) | [Q_cours & Exos A,B,C](/maths/kholles/maths_khube_kholle_1_corrige.pdf)
