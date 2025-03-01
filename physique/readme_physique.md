@@ -11,7 +11,7 @@
   * Mécanique
   * Thermodynamique
   * Traitement du signal
-  * Optique géométrique
+  * Optique géométrique : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf)
 ## Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
