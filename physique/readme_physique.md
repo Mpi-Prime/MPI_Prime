@@ -7,7 +7,11 @@
    * Nos fondamentaux (Physics edition, l'intégrale) : ⏳⌛️
    * Nos fondamentaux (Physics edition, le mémo) : ⏳⌛️
    * Nos fondamentaux (Physics edition, le tout-en-un des TDs) : ⏳⌛️
-
+## Rappels de MP2I (exercices corrigés)
+  * Mécanique
+  * Thermodynamique
+  * Traitement du signal
+  * Optique géométrique
 ### Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
