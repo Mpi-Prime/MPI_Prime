@@ -1,6 +1,4 @@
 # Mathématiques
-
-_By William, Olivier, Marc, Julien & Pierre_
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
 ## Nos fondamentaux 
