@@ -60,7 +60,7 @@ _By Olivier & Clovis_
   6. Rayonnement dipolaire : [Énoncé](/physique/td/electromag/ondes_TD6_enonce.pdf) | ⏳⌛️
 
 ### Optique 
-  0. Exercices de rappel : ⏳⌛️
+  0. Exercices de rappel : [Énoncé](physique/td/optique/physique_khube_optique_td0_enonce.pdf) | [Corrigé](physique/td/optique/physique_khube_optique_td0_corrige.pdf)
   1. Division du front d'onde (sans problème de cohérence) : ⏳⌛️
   2. Division du front d'onde (avec problème de cohérence) : ⏳⌛️
   3. Division d'amplitude : ⏳⌛️
