@@ -58,6 +58,21 @@ _By Olivier & Clovis_
   4. Ondes électromagnétiques et conducteurs métalliques : [Énoncé](/physique/td/electromag/ondes_TD4_enonce.pdf)
   5. Réflexion sur un conducteur parfait : [Énoncé](/physique/td/electromag/ondes_TD5_enonce.pdf)
   6. Rayonnement dipolaire : [Énoncé](/physique/td/electromag/ondes_TD6_enonce.pdf)
+
+### Optique 
+  1. Division du front d'onde (sans problème de cohérence)
+  2. Division du front d'onde (avec problème de cohérence)
+  3. Division d'amplitude
+
+### Quantique 
+  1. Notion de quanton
+  2. Quanton dans un potentiel
+
+### Chimie
+  1. Réaction chimique
+  2. Réactions acido-basiques
+
+     
 ## TPs
 
 ### Traitement du signal 
