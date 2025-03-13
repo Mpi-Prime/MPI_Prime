@@ -56,7 +56,7 @@
   * TD15 - Chomsky
   * TD16 - Robot de Chimie
   * TD17 - Graphes de flots : [Énoncé](/info/td/info_spe_td17_enonce.pdf) | [Corrigé](/info/td/info_spe_td17_corrige.pdf)
-  * TD18 - Théorème de Rice
+  * TD18 - Théorème de Rice : [Énoncé](/info/td/info_spe_td18_enonce.pdf) | [Corrigé](/info/td/info_spe_td18_corrige.pdf)
 
       
 ## Programmes de khôlles 2024-2025
