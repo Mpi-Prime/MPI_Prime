@@ -1,6 +1,7 @@
 # MPI* Prime
-Salut à toi cher MPI(*) de la G05, tu trouveras ci-dessous les ressources de certains de tes khârrés et khûbes 228-229 qui ont gentiment accepté de partager leurs ressources avec leur ancienne classe afin que tu puisses tout défoncer aux concours. Fiches, corrigés et rapports d'épreuves, tout est là pour que t'arrives en légendeee aux épreuves et que t'évites ces magnifiques flops qu'on a vécu pendant nos années de sup' et de spé 😎
-<br /> 
+Salut à toi cher MPI(*) de la G05, tu trouveras ci-dessous les ressources de certains de tes khârrés et khûbes 228-229 qui ont gentiment accepté de partager leurs ressources avec leur ancienne classe afin que tu puisses tout défoncer aux concours. Fiches, corrigés et rapports d'épreuves, tout est là pour que t'arrives en légende aux épreuves ! Tout est accessible depuis la page d'accueil, il te suffit juste de cliquer sur les bons liens 😉 
+
+
 <br /> 
 Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas de page si jamais, maintenant c'est à toi de jouer, la balle est dans ton camp 🫶
 <div align="right"> L'équipe de MPI* Prime</div>
