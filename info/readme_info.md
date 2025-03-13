@@ -45,7 +45,7 @@
   * TD4 - Graphes : [Énoncé](/info/td/info_spe_td4_enonce.pdf) | [Corrigé](/info/td/info_spe_td4_corrige.pdf)
   * TD5 - Grammaires : [Énoncé](/info/td/info_spe_td5_enonce.pdf) | [Corrigé](/info/td/info_spe_td5_corrige.pdf)
   * TD6 - Grammaires non contextuelles déterministes
-  * TD7 - Réductions
+  * TD7 - Réductions : [Corrigé](/info/td/info_khube_tdreduc_corrige.pdf)
   * TD8 - Coupe-mini MC
   * TD9 - Test de primalité probabilistes : [Énoncé](/info/td/info_spe_td9_enonce.pdf) | [Corrigé](/info/td/info_spe_td9_corrige.pdf)
   * TD10 - Coloriage
@@ -54,7 +54,7 @@
   * TD13 - Logique (part 1)
   * TD14 - Lecteurs/rédacteurs : [Énoncé](/info/td/info_spe_td14_enonce.pdf) | [Corrigé](/info/td/info_spe_td14_corrige.pdf)
   * TD15 - Chomsky : [Énoncé](/info/td/info_spe_td16_enonce.pdf) | [Corrigé](/info/td/info_spe_td16_corrige.pdf) + [Photo_annexe](/info/td/info_spe_td16_annexe.jpg)
-  * TD16 - Robot de Chimie
+  * TD16 - Robot de Chimie : [Corrigé](/info/td/info_spe_td15_corrige.pdf)
   * TD17 - Graphes de flots : [Énoncé](/info/td/info_spe_td17_enonce.pdf) | [Corrigé](/info/td/info_spe_td17_corrige.pdf)
   * TD18 - Théorème de Rice : [Énoncé](/info/td/info_spe_td18_enonce.pdf) | [Corrigé](/info/td/info_spe_td18_corrige.pdf)
 
