@@ -8,10 +8,11 @@ _By Olivier & Clovis_
    * Nos fondamentaux (Physics edition, le mémo) : ⏳⌛️
    * Nos fondamentaux (Physics edition, le tout-en-un des TDs) : ⏳⌛️
 ## Rappels de MP2I (exercices corrigés)
-  * Mécanique
+  * Mécanique : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
   * Thermodynamique
   * Traitement du signal
-  * Optique géométrique : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf)
+  * Optique géométrique : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf) | [Corrigé](/physique/td/optique/physique_khube_optique_td0_corrige.pdf)
+
 ## Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
@@ -49,7 +50,7 @@ _By Olivier & Clovis_
    1. Conduction - Régime continu : [Énoncé](/physique/td/thermo/thermo_TD1_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD1_corrige.pdf) 
    2. Conduction - Régime variable : [Énoncé](/physique/td/thermo/thermo_TD2_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD2_corrige.pdf) 
    3. Conducto-convection : [Énoncé](/physique/td/thermo/thermo_TD3_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD3_corrige.pdf) 
-   4. Rayonnement : [Énoncé](/physique/td/thermo/thermo_TD4_enonce.pdf) | ⏳⌛️
+   4. Rayonnement : [Énoncé](/physique/td/thermo/thermo_TD4_enonce.pdf) | [Corrigé](/physique/td/thermo/thermo_TD4_corrige.pdf) 
 
 ### Ondes électromagnétiques
   1. Td calculs… : boycott
@@ -57,7 +58,7 @@ _By Olivier & Clovis_
   3. Plasmas dilués : [Énoncé](/physique/td/electromag/ondes_TD3_enonce.pdf) | ⏳⌛️
   4. Ondes électromagnétiques et conducteurs métalliques : [Énoncé](/physique/td/electromag/ondes_TD4_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD4_corrige.pdf)
   5. Réflexion sur un conducteur parfait : [Énoncé](/physique/td/electromag/ondes_TD5_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD5_corrige.pdf)
-  6. Rayonnement dipolaire : [Énoncé](/physique/td/electromag/ondes_TD6_enonce.pdf) | ⏳⌛️
+  6. Rayonnement dipolaire : [Énoncé](/physique/td/electromag/ondes_TD6_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD6_corrige.pdf)
 
 ### Optique 
   0. Exercices de rappel : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf) | [Corrigé](/physique/td/optique/physique_khube_optique_td0_corrige.pdf)
