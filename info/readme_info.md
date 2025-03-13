@@ -53,7 +53,7 @@
   * TD12 - Représentation des nombres : [Énoncé](/info/td/info_spe_td12_enonce.pdf) | [Corrigé](/info/td/info_spe_td12_corrige.pdf)
   * TD13 - Logique (part 1)
   * TD14 - Lecteurs/rédacteurs : [Énoncé](/info/td/info_spe_td14_enonce.pdf) | [Corrigé](/info/td/info_spe_td14_corrige.pdf)
-  * TD15 - Chomsky
+  * TD15 - Chomsky : [Énoncé](/info/td/info_spe_td16_enonce.pdf) | [Corrigé](/info/td/info_spe_td16_corrige.pdf) + [Photo_annexe](/info/td/info_spe_td16_annexe.jpg)
   * TD16 - Robot de Chimie
   * TD17 - Graphes de flots : [Énoncé](/info/td/info_spe_td17_enonce.pdf) | [Corrigé](/info/td/info_spe_td17_corrige.pdf)
   * TD18 - Théorème de Rice : [Énoncé](/info/td/info_spe_td18_enonce.pdf) | [Corrigé](/info/td/info_spe_td18_corrige.pdf)
