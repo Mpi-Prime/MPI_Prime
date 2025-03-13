@@ -4,9 +4,12 @@ _By Olivier & Clovis_
 
 
 ## Nos fondamentaux (Sortie prévue en Juin 2025)
-   * Nos fondamentaux (Physics edition, l'intégrale) : ⏳⌛️
-   * Nos fondamentaux (Physics edition, le mémo) : ⏳⌛️
-   * Nos fondamentaux (Physics edition, le tout-en-un des TDs) : ⏳⌛️
+<div align="center"> <img src="/misc/images/fondamentaux_physique.png" alt="Physique" width="600"/> </div>
+<div align="center"> Nos Fondamentaux - Physics Edition  </div>
+
+<br /> 
+<br /> 
+<br /> 
 ## Rappels de MP2I (exercices corrigés)
   * Mécanique : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
   * Thermodynamique
