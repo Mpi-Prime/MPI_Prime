@@ -51,7 +51,7 @@
   * TD10 - Coloriage
   * TD11 - Multiplication des nombres et transformée de Fourier
   * TD12 - Représentation des nombres : [Énoncé](/info/td/info_spe_td12_enonce.pdf) | [Corrigé](/info/td/info_spe_td12_corrige.pdf)
-  * TD13 - Logique (part 1)
+  * TD13 - Logique (part 1) : [Corrigé](/info/td/info_spe_td13_corrige.pdf)
   * TD14 - Lecteurs/rédacteurs : [Énoncé](/info/td/info_spe_td14_enonce.pdf) | [Corrigé](/info/td/info_spe_td14_corrige.pdf)
   * TD15 - Chomsky : [Énoncé](/info/td/info_spe_td16_enonce.pdf) | [Corrigé](/info/td/info_spe_td16_corrige.pdf) + [Photo_annexe](/info/td/info_spe_td16_annexe.jpg)
   * TD16 - Robot de Chimie : [Corrigé](/info/td/info_spe_td15_corrige.pdf)
