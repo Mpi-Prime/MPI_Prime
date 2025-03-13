@@ -55,7 +55,7 @@
   * TD14 - Lecteurs/rédacteurs : [Énoncé](/info/td/info_spe_td14_enonce.pdf) | [Corrigé](/info/td/info_spe_td14_corrige.pdf)
   * TD15 - Chomsky
   * TD16 - Robot de Chimie
-  * TD17 - Graphes de flots
+  * TD17 - Graphes de flots : [Énoncé](/info/td/info_spe_td17_enonce.pdf) | [Corrigé](/info/td/info_spe_td17_corrige.pdf)
   * TD18 - Théorème de Rice
 
       
