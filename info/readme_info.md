@@ -25,12 +25,13 @@
 
 
 ## Nos fondamentaux (Publication prévue en Juin 2025)
- * Nos fondamentaux (CS version, l'intégrale) : ⏳⌛️
- * Nos fondamentaux (CS version, cours uniquement) : ⏳⌛️
- * Nos fondamentaux (CS version, TDs uniquement) : ⏳⌛️
- * Nos fondamentaux (CS version, TPs uniquement) : ⏳⌛️
- * Nos fondamentaux (CS version, Best-Of uniquement) : ⏳⌛️
- * Nos fondamentaux (CS version, Bonus uniquement) : ⏳⌛️
+
+<div align="center"> <img src="/misc/images/fondamentaux_info.png" alt="Maths" width="600"/> </div>
+<div align="center"> Nos Fondamentaux - Info Edition  </div>
+
+<br /> 
+<br /> 
+<br /> 
    
 ## Travaux Dirigés
 ### 2024-2025
