@@ -19,7 +19,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 <br /> 
 
-<div align="center"> <img src="/misc/images/physique_cover.png" alt="Physique" width="250"/> </div>
+<div align="center"> <img src="/misc/images/physique_cover.png" alt="Physique" width="500"/> </div>
 <div align="center"> <a href = "/physique/readme_physique.md" > Physique </a> </div>
 
 <br /> 
@@ -53,43 +53,6 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 
 
 
-## Révisions
-Bonjour à toutes et à tous, 
-
-Comme vous le savez, on change un peu d'orga chez les khûbes par rapport au rôle des 5/2 qui existait auparavant et donc, en poursuivant cette logique, on aimerait vous donner quelques conseils quant à la gestion des vacances et plus généralement des révisions quel que soit le concours que vous visez. Voici donc les grands principes que le coin khûbe a concoctés, qui vous amèneront je l'espère au meilleur de vous-même le jour J : 
-
-### Pendant les vacances : 
- 
- - PRENDRE DU TEMPS POUR SOI…MAIS PAS TROP 
-
- - GARDER UN RYTHME DE TRAVAIL et TRAVAILLER DE MANIÈRE INTELLIGENTE 
-
- - Y CROIRE 
-
- - FAITES DU SPORT 
-
- - BOSSER LE FRANÇAIS, SURTOUT POUR CEUX QUI VISENT MINES-PONTS 
-
- - ARRÊTER L'ALCOOL/LE KHÂFFÉ 
-
- - SUIVRE LES NEWS
-
-### Pour les révisions : 
-
- - FAIRE DES FICHES DES FONDAMENTAUX DANS CHAQUE MATIÈRE
-
- - TROUVER DES GENS AVEC QUI TRAVAILLER 
-
- - UNE FOIS LES FICHES FAITES, RELIRE LES PROGRAMMES DE KHÔLLES 
-
- - REFAIRE LES DNS, SURTOUT EN PHYSIQUE ET INFO
-
- - RELIRE QUELQUES TDs
-
-**ACCEPTER LE FAIT QUE VOUS N'ARRIVEREZ JAMAIS À TOUT FAIRE :** si vous arrivez prêts aux concours, c'est que vous êtes arrivés en retard. Maîtrisez les trucs de base, les tricks importants pour ceux qui visent les gros gros concours et ça va le faire.  
-
-
-De la part d'Olivier, Thibault, Baptiste, Florent, François et Antoine.
   
 ## Contributeurs
 
