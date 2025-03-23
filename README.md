@@ -57,15 +57,27 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
   
 ## Contributeurs
 
-<div align="center"> <img src="/misc/images/augustine_et_olivier.png" alt="Augustine et Olivier (MPI* 2023-2025)" width="250"/> </div>
-<div align="center"> <a href = "https://github.com/augustinepicquet" > Augustine Picquet </a> & <a href="https://www.linkedin.com/in/oliviercaffier/"> Olivier Caffier  </a> <br /> </div>
-<div align="center"> (MPI* 2023-2024/2025)  <br /> </div>
-<div align="center"> ENS Ulm & Khûbe MPI* <br /> </div>
-<br /> 
-<br /> 
-<br /> 
-<div align="center"> <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="200"/> </div>
 
+
+<div align="center"> <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier (MPI* 2023-2025)" width="250"/> </div>
+<div align="center">   <a href="https://www.linkedin.com/in/oliviercaffier/"> Olivier Caffier  </a> <br /> </div>
+<div align="center"> (MPI* 2023-2025)  <br /> </div>
+<div align="center"> ENS Ulm & Khûbe MPI* <br /> </div>
+
+
+<br /> 
+<br /> 
+<br /> 
+<div align="center"> <img src="/misc/images/augustine_cv.jpeg" alt="Augustine Picquet (MPI* 2023-2024)" width="250"/> </div>
+<div align="center"> <a href="https://github.com/augustinepicquet"> Augustine Picquet </a> <br /> </div>
+<div align="center"> (MPI* 2023-2024) <br /> </div>
+<div align="center"> ENS Ulm <br /> </div>
+<br /> 
+<br /> 
+<br /> 
+
+
+<div align="center"> <img src="/misc/images/image_cv_william.jpg" alt="William Hasley (MPI* 2022-2024)" width="250"/> </div>
 <div align="center"> <a href="https://github.com/Carson-9"> William Hasley </a> <br /> </div>
 <div align="center"> (MPI* 2022-2024) <br /> </div>
 <div align="center"> ENS Rennes <br /> </div>
