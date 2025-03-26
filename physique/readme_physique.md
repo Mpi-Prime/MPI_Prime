@@ -70,7 +70,7 @@ _By Olivier & Clovis_
 ### Optique 
   0. Exercices de rappel : [Énoncé](/physique/td/optique/optique_TD0_enonce.pdf) | [Corrigé](/physique/td/optique/optique_TD0_corrige.pdf)
   1. Division du front d'onde (sans problème de cohérence) : [Énoncé](/physique/td/optique/optique_TD1_enonce.pdf) | [Corrigé](/physique/td/optique/optique_TD1_corrige.pdf)
-  2. Division du front d'onde (avec problème de cohérence) : ⏳⌛️
+  2. Division du front d'onde (avec problème de cohérence) : [Énoncé](/physique/td/optique/optique_TD2_enonce.pdf) | [Corrigé](/physique/td/optique/optique_TD2_corrige.pdf)
   3. Division d'amplitude : ⏳⌛️
 
 ### Quantique 
