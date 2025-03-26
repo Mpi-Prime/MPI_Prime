@@ -78,8 +78,9 @@ _By Olivier & Clovis_
   2. Quanton dans un potentiel : [Énoncé](/physique/td/quantique/quantique_TD2_enonce.pdf) | [Corrigé](/physique/td/quantique/quantique_TD2_corrige.pdf)
 
 ### Chimie
-  1. Réaction chimique : ⏳⌛️
-  2. Réactions acido-basiques : ⏳⌛️
+  1. Réaction chimique : [Énoncé](/physique/td/chimie/chimie_TD1_enonce.pdf)
+  2. Réactions acido-basiques : [Énoncé](/physique/td/chimie/chimie_TD2_enonce.pdf)
+  3. Réactions rédox : [Énoncé](/physique/td/chimie/chimie_TD3_enonce.pdf)
 
      
 ## TPs
