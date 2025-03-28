@@ -79,7 +79,7 @@ _By Olivier & Clovis_
 
 ### Chimie
   1. Réaction chimique : [Énoncé](/physique/td/chimie/chimie_TD1_enonce.pdf) | [Corrigé](/physique/td/chimie/chimie_TD1_corrige.pdf)
-  2. Réactions acido-basiques : [Énoncé](/physique/td/chimie/chimie_TD2_enonce.pdf)
+  2. Réactions acido-basiques : [Énoncé](/physique/td/chimie/chimie_TD2_enonce.pdf) | [Corrigé](/physique/td/chimie/chimie_TD2_corrige.pdf)
   3. Réactions rédox : [Énoncé](/physique/td/chimie/chimie_TD3_enonce.pdf)
 
      
