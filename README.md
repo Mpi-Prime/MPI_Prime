@@ -62,7 +62,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <div align="center"> <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier (MPI* 2023-2025)" width="250"/> </div>
 <div align="center">   <a href="https://www.linkedin.com/in/oliviercaffier/"> Olivier Caffier  </a> <br /> </div>
 <div align="center"> (MPI* 2023-2025)  <br /> </div>
-<div align="center"> ENS Ulm & Khûbe MPI* <br /> </div>
+<div align="center"> Khûbe MPI* <br /> </div>
 
 
 <br /> 
