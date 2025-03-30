@@ -89,7 +89,8 @@ _By Olivier & Clovis_
    1. Acquisition et analyse de Fourier : [énoncé](/physique/tp/signal/physique_khube_TP1_enonce.pdf)
    2. Filtrage et analyse de Fourier : [énoncé](/physique/tp/signal/physique_khube_TP1_enonce.pdf)
 ## Révisions
-
+### Des sujets en vidéo
+ * Ailette de refroidissement : [Centrale MP 2022 - Physique 1](https://youtu.be/UxlSw9EhKtg?si=1C3JZPsd0r2cGkTa)
 ### Les decks ANKI
    * Mécanique : [Deck_meca](/physique/anki/anki_meca.apkg)
 ### Les fiches de Clovis 
