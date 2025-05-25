@@ -1,0 +1,263 @@
+\usepackage[explicit]{titlesec}
+\usepackage{lmodern}
+\usepackage{lipsum}
+\usepackage[top=2cm, bottom=2cm, left=1.5cm, right = 1.5cm]{geometry}
+\usepackage[english,main=french]{babel} 
+\usepackage[T1]{fontenc}
+\usepackage{amsmath, comment, graphicx}
+\usepackage{lastpage}
+\usepackage{listings}
+\usepackage[most]{tcolorbox}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs}
+\usepackage{sectsty}
+\usepackage{xcolor}
+\usepackage[noend]{algpseudocode}
+\usepackage{algorithm}
+\usepackage{amsfonts}
+\usepackage{stmaryrd}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{pgfplots}
+\usetikzlibrary{arrows}
+\pgfplotsset{compat=1.15}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{fourier}
+
+
+
+\usepackage{tikz}
+\usetikzlibrary{automata, positioning}
+\usetikzlibrary{shapes}
+\usepackage{cancel}
+\usepackage[skip=5pt plus1pt, indent=10pt]{parskip}
+\usepackage{pifont}
+\setlength{\columnseprule}{0pt}
+\usepackage[font=small,labelfont=bf]{caption}
+
+\makeatletter
+\@addtoreset{chapter}{part}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% GESTION DES COULEURS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{dark_purple}{RGB}{105, 48, 195}
+\definecolor{dark_blue}{RGB}{83, 144, 217}
+\definecolor{ice_blue}{RGB}{189, 224, 254}
+\definecolor{marine_blue}{RGB}{3, 4, 94}
+\definecolor{intense_blue}{RGB}{63, 55, 201}
+\definecolor{grey_blue}{RGB}{226, 234, 252}
+\definecolor{magenta_v2}{RGB}{89,24,91}
+\definecolor{colortikz1}{RGB}{168, 71, 64}
+\definecolor{colortikz2}{RGB}{104, 140, 93}
+\definecolor{colortikz3}{RGB}{176, 143, 70}
+\definecolor{xdxdff}{RGB}{168, 71, 64}
+\definecolor{ududff}{rgb}{0.30196078431372547,0.30196078431372547,1}
+
+%%%%%% Nouvelles commandes
+\renewcommand{\contentsname}{\begin{center} \color{marine_blue} Sommaire \color{black} \vskip 0.2cm \end{center}}
+
+\newcommand{\corr}{ \\ \color{marine_blue!90} \textbf{Corrigé :} \color{black}}
+\newcommand\demo{D\textsc{émonstration}.}
+
+\newenvironment{myitemize}{%
+    \begin{itemize}[label=\ding{226}, left=1em, itemsep=1em]
+}{%
+    \end{itemize}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SETUP SETTINGS %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstset{
+    framerule=1pt,
+    frame=none,
+    emphstyle={\small\ttfamily\bfseries\color{Orange}},
+    numbers=left,
+    numberstyle= \tiny\color{black},
+    basicstyle = \small\ttfamily,
+    keywordstyle    = \bfseries\color{red},
+    identifierstyle = \bfseries\color{violet},
+    stringstyle     = \bfseries\color{olive},
+    commentstyle    = \bfseries\color{olive},
+    breaklines      =   true,
+    columns         =   fixed,
+    basewidth       =   .5em,
+    backgroundcolor=\color{ice_blue!30},
+    tabsize=2,
+    showspaces=false,
+    showstringspaces=false,
+}
+\hypersetup{
+	colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=violet,
+    pdftitle={MPI* Prime},
+    pdfpagemode=FullScreen,}
+
+% STYLE DE LA PAGE
+\pagestyle{fancy}
+%\headheight 40pt
+\lhead{}
+\rhead{}
+\lfoot{}
+\pagenumbering{arabic}
+\cfoot{\small\thepage of \pageref{LastPage}}
+\rfoot{}
+%\headsep 1.2em
+\renewcommand\headrulewidth{0pt}
+\renewcommand\footrulewidth{0pt}
+%\renewcommand{\baselinestretch}{1.25}
+\fancyfoot[LO]{MPI* Prime}
+\fancyfoot[C]{
+\thepage} %/\pageref{LastPage}
+\fancyfoot[R]{MPI* Faidherbe 2023-2025}
+
+\setlength{\columnseprule}{0.2pt}
+\sectionfont{\color{marine_blue!90}}
+\subsectionfont{\color{marine_blue!75}}
+\subsubsectionfont{\color{marine_blue!60}}
+
+
+%% Définitions des blocs
+\newtcolorbox{DEF}[2][]{
+                lower separated=false,
+                colback=marine_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=marine_blue!63,enhanced,
+coltitle=white,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Définition #2,#1}
+
+\newtcolorbox{PROP}[2][]{
+                lower separated=false,
+                colback=marine_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=marine_blue!50,enhanced,
+coltitle=white,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Proposition #2,#1}
+
+\newtcolorbox{EXOS}[2][]{
+                lower separated=false,
+                colback=pink!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=pink!60,enhanced,
+coltitle=black!75,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Exemple  #2,#1}
+
+\newtcolorbox{THEO}[2][]{
+                lower separated=false,
+                colback=dark_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=dark_blue!60,enhanced,
+coltitle=black!70,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Théorème #2,#1}
+
+\newtcolorbox{CORO}[2][]{
+                lower separated=false,
+                colback=dark_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=dark_blue!60,enhanced,
+coltitle=black!70,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Corollaire #2,#1}
+
+\newtcolorbox{ALGO}[2][]{
+                lower separated=false,
+                colback=magenta_v2!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=magenta_v2!70,enhanced,
+coltitle=white!85,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title= Algorithme #2,#1}
+
+\newtcolorbox{NOTION}[2][]{
+                lower separated=false,
+                colback=ice_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=ice_blue,enhanced,
+coltitle=black!70,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=#2,#1}
+
+\newtcolorbox{LEMME}[2][]{
+              lower separated=false,
+                colback=ice_blue!20,
+colframe=black!60,
+fonttitle=\bfseries,
+colbacktitle=ice_blue,enhanced,
+coltitle=black!70,
+attach boxed title to top left={xshift=0.3cm,
+        yshift=-2mm},
+title=Lemme #2,#1}
+\newtcbox{\mafbox}[1][]{%
+	enhanced,
+	breakable,
+	standard jigsaw,
+	size=fbox,
+        colback=marine_blue!10,
+	colframe=black, % Couleur de bordure
+	boxrule=0.5pt, % Épaisseur de la bordure
+	arc=2pt, % Rayon des coins arrondis
+	nobeforeafter
+}
+
+
+\newtcolorbox{remarque}[2]{
+    breakable, enhanced, frame hidden, title=#1, coltitle=marine_blue!70, colbacktitle=ice_blue!20!white, fonttitle=\bfseries, sharp corners=west, arc=2.5mm, boxrule=0pt, borderline west={4pt}{0pt}{marine_blue!70}, colback=ice_blue!20!white,
+    after title={#2}
+}
+
+\newtcolorbox{resume}[2]{
+    breakable, enhanced, frame hidden, title=#1 - Présentation et Résumé, coltitle=ice_blue!40!black, colbacktitle=ice_blue!15!white, fonttitle=\bfseries, sharp corners=west, arc=2.5mm, boxrule=0pt, borderline west={4pt}{0pt}{ice_blue}, colback=ice_blue!15!white,
+    after title={#2}
+}
+
+
+\newcommand{\dfn}[2]{\begin{DEF}{#1}{}#2\end{DEF}}
+\newcommand{\lem}[2]{\begin{LEMME}{#1}{}#2\end{LEMME}}
+\newcommand{\thm}[2]{\begin{THEO}{#1}{}#2\end{THEO}}
+\newcommand{\prop}[2]{\begin{PROP}{#1}{}#2\end{PROP}}
+\newcommand{\exos}[2]{\begin{EXOS}{#1}{}#2\end{EXOS}}
+\newcommand{\notion}[2]{\begin{NOTION}{#1}{}#2\end{NOTION}}
+\newcommand{\rem}[2]{\begin{remarque}{#1}{}#2\end{remarque}}
+\newcommand{\resumee}[2]{\begin{resume}{#1}{}#2\end{resume}}
+
+
+\newcommand{\univ}{\textbf{univ}}
+\newcommand{\code}[1]{$\langle #1 \rangle$}
+\newcommand{\prob}[1]{\textbf{#1}}
+
+
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+\DeclarePairedDelimiter{\bignorm}{\big\lVert}{\big\rVert}
+
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\DeclarePairedDelimiter{\floor}{\lfloor}{\rfloor}
+\DeclarePairedDelimiter{\round}{\lfloor}{\rceil}
+\DeclarePairedDelimiter{\scalar}{\langle}{\rangle}
+\DeclarePairedDelimiter{\range}{\llbracket}{\rrbracket}
