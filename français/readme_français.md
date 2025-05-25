@@ -1,5 +1,5 @@
 # Français
-✨ Lien du blog : [Verba volant, scripta manent ?](https://caffiercaroline.fr/) (mdp : MPI**2025)
+✨ Lien du blog : [Verba volant, scripta manent ?](https://caffiercaroline.fr/) 
 
 
 ## À l'écrit
