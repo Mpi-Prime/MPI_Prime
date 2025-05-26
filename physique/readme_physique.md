@@ -62,7 +62,7 @@
 ### Ondes électromagnétiques
   1. Td calculs… : boycott
   2. Énergie, polarisation : [Énoncé](/physique/td/electromag/ondes_TD2_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD2_corrige.pdf)
-  3. Plasmas dilués : [Énoncé](/physique/td/electromag/ondes_TD3_enonce.pdf) | ⏳⌛️
+  3. Plasmas dilués : [Énoncé](/physique/td/electromag/ondes_TD3_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD3_corrige.pdf)
   4. Ondes électromagnétiques et conducteurs métalliques : [Énoncé](/physique/td/electromag/ondes_TD4_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD4_corrige.pdf)
   5. Réflexion sur un conducteur parfait : [Énoncé](/physique/td/electromag/ondes_TD5_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD5_corrige.pdf)
   6. Rayonnement dipolaire : [Énoncé](/physique/td/electromag/ondes_TD6_enonce.pdf) | [Corrigé](/physique/td/electromag/ondes_TD6_corrige.pdf)
