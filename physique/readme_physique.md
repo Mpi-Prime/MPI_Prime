@@ -3,7 +3,14 @@
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
 
-## Nos fondamentaux (Sortie prévue en Juin 2025)
+
+
+
+
+
+
+## Révisions
+### Nos fondamentaux (Sortie prévue en Juin 2025)
 <div align="center"> <img src="/misc/images/fondamentaux_physique.png" alt="Physique" width="600"/> </div>
 <div align="center"> Nos Fondamentaux - Physics Edition  </div>
 
@@ -11,16 +18,7 @@
 <br /> 
 <br /> 
 
-
-
-
-## Rappels de MP2I (exercices corrigés)
-  * Mécanique : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
-  * Thermodynamique
-  * Traitement du signal
-  * Optique géométrique : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf) | [Corrigé](/physique/td/optique/physique_khube_optique_td0_corrige.pdf)
-
-## Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
+### Applications de cours : les musts (liens privés 🔒 jusqu'à juin)
    * Mécanique
    * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=drive_link)
    * Traitement du signal & Électronique
@@ -30,8 +28,25 @@
    * [Quantique](https://drive.google.com/file/d/1718QoXx6eMnPEFVSFyq3Cckxv6wPKx8q/view?usp=sharing)
    * Chimie
 
+### Les Fiches de Clovis
+  * [Mécanique](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSDDwAAAAA?e=gN1LVc)
+  * [Électromagnétisme](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSGDwAAAAA?e=5ChNLQ)
+  * [Traitement du signal](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSFDwAAAAA?e=Xw4Xf2)
+  * [Thermodynamique](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSBDwAAAAA?e=Gp6MqT)
+  * [Ondes électromagnétiques](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR4DwAAAAA?e=GNAQIb)
+  * [Optique](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR7DwAAAAA?e=rzPT96)
+  * [Quantique](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR5DwAAAAA?e=m5JjTS)
+  * [Chimie](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCTGFAAAAAA?e=QgFKnq)
+
 ## TDs
 
+## Rappels de MP2I (exercices corrigés)
+  * Mécanique : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
+  * Thermodynamique
+  * Traitement du signal
+  * Optique géométrique : [Énoncé](/physique/td/optique/physique_khube_optique_td0_enonce.pdf) | [Corrigé](/physique/td/optique/physique_khube_optique_td0_corrige.pdf)
+
+    
 ### Mécanique 
    0. TD Vacances : [Énoncé](/physique/td/meca/khube_physics_td_vacances_enonce.pdf) | [Corrigé](/physique/td/meca/khube_physics_td_vacances_corrige.pdf)
    1. Frottement de glissement : [Énoncé](/physique/td/meca/meca_TD1_enonce.pdf) | [Corrigé](/physique/td/meca/meca_TD1_corrige.pdf)
