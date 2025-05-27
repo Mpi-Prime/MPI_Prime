@@ -91,34 +91,32 @@
 
 ## DNS
   * DNS Vacances : [Énoncé]() | [Corrigé](/info/td/info_spe_td0_corrige.pdf)
-## Annales 
-  * **DS**
-     * DS1 - 
-  * **CCINP**
-     * MPI 2024 : [Énoncé](https://www.concours-commun-inp.fr/_resource/annales%20%C3%A9crits/2024/MPI/2024_MPI5IN.pdf?download=true)
-     * MPI 2023 : [Énoncé](https://www.concours-commun-inp.fr/_resource/annales%20%C3%A9crits/MPI/2023/MPI5IN.pdf?download=true)
-  * **Centrale**
-     * MPI 2024 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2024/MPI/I016.pdf) 
-     * MPI 2023 : [Énoncé](https://www.concours-centrale-supelec.fr/CentraleSupelec/2023/MPI/I012.pdf)
-  * **Mines-Ponts**
-     * MPI 2024 :
-        * INFO 1 : [Énoncé](https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/07/2024_INFO-1-MPI.pdf)
-        * INFO 2 : [Énoncé](https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/07/2024_INFO-2-MPI.pdf)
-     * MPI 2023
-        * INFO 1 : [Énoncé](/info/annales/ccmp_2023_info1.pdf)
-        * INFO 2 : [Énoncé](/info/annales/ccmp_2023_info2.pdf)
-  * **ENS**
 
 
-## Quelques suppléments (ne pas aller à l'ENS sans ça)
-  * Nombre de Catalan : [Démonstration](/info/bonus/info_khube_catalandemo.pdf) 
-  * Théorème maître : [Démonstration](/info/bonus/info_khube_mastertheorem.pdf)
-  * TP_ENS_1 - Automates, bisimilarité, équivalence : [Énoncé](/info/tp/2023_2024/info_spe_TP12_enonce.pdf) |[Corrigé](/info/tp/2023_2024/info_spe_TP12_corrige.pdf)
-  * Manuel d'informatique MP2I-MPI : ⏳⌛️
+
 
 ## Révisions 
 ### LE Best-of à maitriser absolument 
 * Lien du [Best-Of](https://drive.google.com/drive/folders/1oqhQs7X_jV5RD7G6sC7B3eSH5CsNZmxa?usp=sharing)
 
 ### Les fiches de Clovis
-  Le lien vers le Onedrive : [Fiches de Clovis](https://onedrive.live.com/?authkey=%21AKAyskL%5FuKhhXtE&id=247C42F66BD86EF0%213959&cid=247C42F66BD86EF0)
+
+  * [Algo du texte](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCT6FAAAAAA?e=WeDFF9)
+  * [Arbres](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCRaEgAAAAA?e=M9M9lK)
+  * [Arbres couvrants](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCTmEQAAAAA?e=nqZWpE)
+  * [Automates](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCQDEAAAAAA?e=BwK5T1)
+  * [Calculabilité](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCRbEgAAAAA?e=T1jfWF)
+  * [Complexité](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSEEwAAAAA?e=OdWeZ5)
+  * [Concurrence](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCQ2FAAAAAA?e=RZBrV7)
+  * [Grammaires](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCQEEAAAAAA?e=BTXtSI)
+  * [Graphes](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCRhEQAAAAA?e=IpOfbc)
+  * [Intelligence Artificielle](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCRcFAAAAAA?e=5urwxD)
+  * [Jeux](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCQFEAAAAAA?e=jXz1VM)
+  * [Logique](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCQ1FAAAAAA?e=ZrwdVs)
+  * [Union-Find](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCRdFAAAAAA?e=gHaYWg)
+
+### Quelques suppléments (ne pas aller à l'ENS sans ça)
+  * Nombre de Catalan : [Démonstration](/info/bonus/info_khube_catalandemo.pdf) 
+  * Théorème maître : [Démonstration](/info/bonus/info_khube_mastertheorem.pdf)
+  * TP_ENS_1 - Automates, bisimilarité, équivalence : [Énoncé](/info/tp/2023_2024/info_spe_TP12_enonce.pdf) |[Corrigé](/info/tp/2023_2024/info_spe_TP12_corrige.pdf)
+  * Manuel d'informatique MP2I-MPI : ⏳⌛️
