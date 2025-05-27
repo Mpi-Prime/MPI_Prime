@@ -4,6 +4,16 @@
 
  
 
+## Nos fondamentaux (Publication prévue en Juin 2025)
+
+<div align="center"> <img src="/misc/images/fondamentaux_info.png" alt="Maths" width="600"/> </div>
+<div align="center"> Nos Fondamentaux - Info Edition  </div>
+
+<br /> 
+<br /> 
+<br /> 
+
+
 
 ## Cours
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
@@ -24,14 +34,7 @@
 
 
 
-## Nos fondamentaux (Publication prévue en Juin 2025)
 
-<div align="center"> <img src="/misc/images/fondamentaux_info.png" alt="Maths" width="600"/> </div>
-<div align="center"> Nos Fondamentaux - Info Edition  </div>
-
-<br /> 
-<br /> 
-<br /> 
    
 ## Travaux Dirigés
 ### 2024-2025
