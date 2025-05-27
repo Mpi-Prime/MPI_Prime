@@ -2,10 +2,22 @@
 
 ### ☞  Attention, gardez en tête que ce sont des documents faits par des élèves, des fautes s'y trouveront très probablement, méfiez-vous !
 
-## Nos fondamentaux 
-  * Nos fondamentaux (Analysis Version) : ⏳⌛️
-  * Nos fondamentaux (Algebra Version) : ⏳⌛️
-  * Nos fondamentaux (Théorèmes d'analyse uniquement) : [Les fondamentaux](/maths/fiches/maths_khube_th_analyse.pdf)
+## Révisions 
+### Nos fondamentaux 
+  * Nos fondamentaux (Fiches d'Olivier uniquement) :
+  * Nos fondamentaux (Théorèmes d'analyse uniquement) : [Les théorèmes et définitions](/maths/fiches/maths_khube_th_analyse.pdf)
+  * Nos fondamentaux (La totale) : 
+
+### Les Fiches de Clovis 
+  * [Algèbre](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR6DwAAAAA?e=ynbblt)
+  * [Analyse](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSCDwAAAAA?e=4UcFEV)
+  * [Probabilités](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR8DwAAAAA?e=HYRYt0)
+  * [Groupes](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSADwAAAAA?e=JoItO4)
+  * [Topologie](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCT7FAAAAAA?e=0S84Hj)
+  * [Trigo complexe](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR9DwAAAAA?e=iB6vYe)
+  * [Équations différentielles](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSwFAAAAAA?e=WoTsNU)
+  * [Calcul différentiel](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSvFAAAAAA?e=J5887D)
+  * [Théorèmes d'analyse et définitions](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSEDwAAAAA?e=V3imws)
 
     
 ## Programmes de khôlles 2024-2025
@@ -55,7 +67,7 @@
   2. Notion de norme : [Énoncé](/maths/td/maths_khube_td_2_enonce.pdf) 
   3. Suite et séries vectorielles, sommabilité : [Énoncé](/maths/td/maths_khube_td_3_enonce.pdf)
   4. Réduction : [Énoncé](/maths/td/maths_khube_td_4_enonce.pdf)
-  5. Fonctions à valeurs vectorielles : [Énoncé](/maths/td/maths_khube_td_5_enonce.pdf) | [Incontournables](/maths/td/maths_khube_td_5_incontournables.pdf) 🆕
+  5. Fonctions à valeurs vectorielles : [Énoncé](/maths/td/maths_khube_td_5_enonce.pdf) | [Incontournables](/maths/td/maths_khube_td_5_incontournables.pdf) 
   6. Espaces probabilisés : [Énoncé](/maths/td/maths_khube_td_6_enonce.pdf)
   7. Suites et séries de fonctions : [Énoncé](/maths/td/maths_khube_td_7_enonce.pdf)
   8. Séries entières : [Énoncé](/maths/td/maths_khube_td_8_enonce.pdf)
@@ -69,7 +81,4 @@
   16. Calcul différentiel : [Énoncé](/maths/td/maths_khube_td_16_enonce.pdf)
 
 
-## Révisions 
 
-### Les Fiches de Clovis
- Le lien vers le Onedrive : [Fiches de Clovis](https://onedrive.live.com/?authkey=%21AKAyskL%5FuKhhXtE&id=247C42F66BD86EF0%213959&cid=247C42F66BD86EF0)
