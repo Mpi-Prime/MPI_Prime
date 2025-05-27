@@ -31,6 +31,8 @@
 * Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf) | [Cours complet](/info/cours/spe/info_spe_chap12.pdf)
 * Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf) | [Cours complet](/info/cours/spe/info_spe_chap13.pdf)
 * Bonus - Algorithmes de texte : [Cours complet](/info/cours/spe/info_spe_algo_texte.pdf)
+* Bonus - Raisonner sur les programmes : [Cours_complet](/info/cours/spe/info_spe_algorithmique.pdf)
+* Bonus - Les fondamentaux de la complexité : [Extrait du cours donné en MPI un jour de grève](/info/cours/spe/info_spe_algorithmique_extrait.pdf)
 
 
 
