@@ -7,19 +7,19 @@
 
 ## Cours
 * [Poly complet MP2I](/info/cours/sup/poly-mp2i.pdf)
-* Chapitre 1 - Jeux : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_jeux.pdf)
-* Chapitre 2 - Langages : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_langages.pdf)
-* Chapitre 3 - Union-Find : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_unionfind.pdf)
-* Chapitre 4 - Compléments d'algo des graphes : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complementsgraphes.pdf)
-* Chapitre 5 - Grammaires non-contextuelles : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_grammaires.pdf)
-* Chapitre 6 - Recherches d'arbre couvrant de poids minimal : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_arbrecouvrant.pdf)
-* Chapitre 7 - Décidabilité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_decidabilite.pdf)
-* Chapitre 8 - Complexité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complexite.pdf)
-* Chapitre 9 - Que faire avec des problèmes NP-Complets ? : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_npcomplet.pdf)
-* Chapitre 10 - Logique :
-* Chapitre 11 - Parallélisation, concurrence et synchronisation : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_concu.pdf)
-* Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf)
-* Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf)
+* Chapitre 1 - Jeux : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_jeux.pdf) | [Cours complet](/info/cours/spe/info_spe_chap1.pdf)
+* Chapitre 2 - Langages : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_langages.pdf) | [Cours complet](/info/cours/spe/info_spe_chap2.pdf)
+* Chapitre 3 - Union-Find : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_unionfind.pdf) | [Cours complet](/info/cours/spe/info_spe_chap3.pdf)
+* Chapitre 4 - Compléments d'algo des graphes : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complementsgraphes.pdf) | [Cours complet](/info/cours/spe/info_spe_chap4.pdf)
+* Chapitre 5 - Grammaires non-contextuelles : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_grammaires.pdf) | [Cours complet](/info/cours/spe/info_spe_chap5.pdf)
+* Chapitre 6 - Recherches d'arbre couvrant de poids minimal : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_arbrecouvrant.pdf) | [Cours complet](/info/cours/spe/info_spe_chap6.pdf)
+* Chapitre 7 - Décidabilité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_decidabilite.pdf) | [Cours complet](/info/cours/spe/info_spe_chap7.pdf)
+* Chapitre 8 - Complexité : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_complexite.pdf) | [Cours complet](/info/cours/spe/info_spe_chap8.pdf)
+* Chapitre 9 - Que faire avec des problèmes NP-Complets ? : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_npcomplet.pdf) | [Cours complet](/info/cours/spe/info_spe_chap9.pdf)
+* Chapitre 10 - Logique : [Cours complet](/info/cours/spe/info_spe_chap10.pdf)
+* Chapitre 11 - Parallélisation, concurrence et synchronisation : [Programme de khôlles (énoncé) ](/info/cours/spe/info_khube_pgkholles_concu.pdf) | [Cours complet](/info/cours/spe/info_spe_chap11.pdf)
+* Chapitre 12 - Apprentissage supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagesuper.pdf) | [Cours complet](/info/cours/spe/info_spe_chap12.pdf)
+* Chapitre 13 - Apprentissage non supervisé : [Programme de khôlles (énoncé)](/info/cours/spe/info_khube_pgkholles_apprentissagenonsuper.pdf) | [Cours complet](/info/cours/spe/info_spe_chap13.pdf)
 * Bonus - Algorithmes de texte : [Cours complet](/info/cours/spe/info_spe_algo_texte.pdf)
 
 
