@@ -201,3 +201,35 @@ Je vois trois possibilités (de la plus simple vers la plus complexe) :
 
 
 
+
+✨ **Question 13.** Définir le type de votre file de priorité, avec comme priorité un entier, et comme valeur un élément du type `Arbre.arbre`, décrit dans `arbre.mli`. Implémenter les fonctions nécessaires à sa manipulation.
+
+```ocaml
+type liste_prio = (arbre * int) list  (* cette liste est censée être triée *)
+
+exception Liste_vide 
+
+
+
+let rec insert (l : liste_prio) (elt : arbre) (prio : int) : liste_prio = 
+  match l with 
+  |[] -> [(elt, prio)]
+  |x::xs when snd(x) >= prio -> (elt,prio)::l 
+  |x::xs -> x::(insert xs elt prio)
+
+
+exception Not_extract;;
+
+let extraire_elt (a : arbre) : note = 
+  match a with 
+  |Leaf(f) -> f
+  |_ -> raise Not_extract
+
+
+let extraire_min (l : liste_prio) : arbre * liste_prio = 
+  match l with 
+  |[] -> raise Liste_vide
+  |x::xs -> fst(x), xs
+```
+
+
