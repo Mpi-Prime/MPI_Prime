@@ -150,3 +150,54 @@ let trouvePLSC (text1 : partition) (text2 : partition) : note list =
 On a `Re Re Mi Fa Re Do La Sol La Re Do La Re Sol Fa`
 
 
+✨ **Question 10.** Proposer un encodage pour les notes en fonction de l'arbre de Huffman de la figure 3.
+
+Comme dans le cours, quand on va à gauche on met un 0, et un 1 quand on va à droite : 
+ - Fa : 00
+ - La : 0100
+ - Si : 0101
+ - Do : 011
+ - Sol : 100
+ - Mi : 101
+ - Re : 11
+
+
+✨ **Question 11.** Implémenter une fonction qui compte le nombre d'occurences de chaque note dans une partition de prototype `compte_occ : Musique.partition -> (Musique.note * int) list`
+```ocaml
+let compte_occ (text : partition) : (note * int) list = 
+  (*Initialisation de variables*)
+  let len = Array.length text in 
+  let vus = ref [] in 
+  let res = ref [] in 
+
+
+  for i = 0 to len -1 do  (* on parcourt le tableau *)
+    let note_tmp = text.(i) in 
+    if not (List.mem note_tmp !vus) then (* Si on a jamais vu cette lettre auparavant, i.e si on ne l'a pas compté *)
+    begin 
+      vus := note_tmp::(!vus) ; (* on l'ajoute aux notes vues *)
+
+      (* On compte les occurences à partir de i car on n'avait pas rencontré cette note avant *)
+      let count = ref 1 in 
+      for j=i+1 to len-1 do 
+        if text.(j) = note_tmp then incr(count)
+      done;
+
+      (* on modifie le résultat *)
+      res := (note_tmp,!count)::(!res)
+    end
+  done;
+  !res
+```
+
+✨ **Question 12.** Pour dérouler l'algorithme de Huffman, on a besoin d'une file de priorité. Discuter les implémentations possibles d'une telle structure 
+
+Je vois trois possibilités (de la plus simple vers la plus complexe) : 
+
+ - Liste triée (on trie la liste à chaque insertion) : l'insertion est en $`\mathcal{O} (n) `$ (on insère dans une liste triée) et l'extraction en $`\mathcal{O}(1)`$
+ - Tas binaire implémenté avec un tableau : l'insertion et l'extraction sont en $`\mathcal{O}(\log(n))`$
+ - Tas de Fibonacci : Insertion en $`\mathcal{O}(1)`$ et extraction en $`\mathcal{O}(\log(n))`$ pour la complexité amortie
+
+
+
+
