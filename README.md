@@ -27,7 +27,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 <br /> 
 
-<div align="center"> <img src="/misc/images/info_cover.png" alt="Info" width="250"/> </div>
+<div align="center"> <img src="/misc/images/np_complete.png" alt="Info" width="500"/> </div>
 <div align="center"> <a href = "/info/readme_info.md" > Informatique </a> </div>
 
 <br /> 
