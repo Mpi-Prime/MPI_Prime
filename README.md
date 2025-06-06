@@ -129,6 +129,15 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <div align="center"> Noélien Dutilleul <br /> </div>
 <div align="center"> (MPI* 2024-2025)  <br /> </div>
 
+
+
+<br /> 
+<br />
+<br /> 
+<div align="center"> Victor KRAWCZYK <br /> </div>
+<div align="center"> (MPI* 2024-2025)  <br /> </div>
+
+
 <br /> 
 <br />
 <br /> 
