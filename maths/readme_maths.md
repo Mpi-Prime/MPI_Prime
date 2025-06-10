@@ -19,7 +19,10 @@
   * [Calcul différentiel](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSvFAAAAAA?e=J5887D)
   * [Théorèmes d'analyse et définitions](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCSEDwAAAAA?e=V3imws)
 
-    
+
+### Épreuve Maths-Info Centrale (Révisions Python)
+ * [Énoncé des exercices]() - [Proposition de corrigé (lien overleaf pour le moment)](https://www.overleaf.com/read/hwymgrpptvfw#7f42aa)
+ * [Poly de révision des fonctions python]()
 ## Programmes de khôlles 2024-2025
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](https://drive.google.com/file/d/1t2VK7qIPlb5kFghAdTjBgcSefrz-t2o3/view?usp=sharing)
   2. Notion de norme et séries numériques ou à valeurs vectorielles : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S4_enonce.pdf) | [Q_cours & Exos A,B](https://drive.google.com/file/d/1AEApxWCa04y0sdhuVyrsfQrL2aZrR4dk/view?usp=sharing) | [Exos C](/maths/kholles_2025/maths_khube_kholle_S4_GroupeC_corrige.pdf) 
@@ -79,6 +82,9 @@
   14. Intégrales à paramètres : [Énoncé](/maths/td/maths_khube_td_14_enonce.pdf)
   15. Équations différentielles : [Énoncé](/maths/td/maths_khube_td_15_enonce.pdf)
   16. Calcul différentiel : [Énoncé](/maths/td/maths_khube_td_16_enonce.pdf)
+
+
+## Préparation aux oraux
 
 
 
