@@ -21,7 +21,7 @@
 
 
 ### Épreuve Maths-Info Centrale (Révisions Python)
- * [Énoncé des exercices](/maths/td/Exercice python 2025.pdf) - [Proposition de corrigé (lien overleaf pour le moment)](https://www.overleaf.com/read/hwymgrpptvfw#7f42aa)
+ * [Énoncé des exercices](/maths/td/Exos_python.pdf) - [Proposition de corrigé (lien overleaf pour le moment)](https://www.overleaf.com/read/hwymgrpptvfw#7f42aa)
  * [Poly de révision des fonctions python](/maths/td/revisions_python.pdf)
 ## Programmes de khôlles 2024-2025
   1. Révisions d'algèbre linéaire : [Énoncé](/maths/kholles_2025/maths_khube_kholle_S3_enonce.pdf) | [Q_cours & Exos A,B](https://drive.google.com/file/d/1t2VK7qIPlb5kFghAdTjBgcSefrz-t2o3/view?usp=sharing)
