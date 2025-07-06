@@ -21,11 +21,13 @@ _By Olivier_
 ### Préparer son dossier
 J'ai trouvé quelques sites/chaînes youtube qui permettent d'explorer le monde culturel sans que cela prenne trop de temps. Je vous mets quelques références : 
 
-* Chaîne youtube _Great Art Explained_ : même si elle est entièrement en anglais, elle fournit des analyses très précises sur les artistes et leurs œuvres
-* Les _recos culture_ d'Ambre Chalumeau : format très court et très touche-à-tout, m'a surtout permis d'avoir des références en lien avec l'actualité (féminisme, masculinisme etc…)
-* Site _Genius_ : bon il faut d'abord trouver les chansons, mais une fois qu'on a une liste de chansons à analyser, le site fournit des analyses assez quali
-* 
-### Quelques fiches (lien privé 🔒 jusqu'à juin)
+* Chaîne youtube [Great Art Explained](https://www.youtube.com/@GreatArtExplained) : même si elle est entièrement en anglais, elle fournit des analyses très précises sur les artistes et leurs œuvres
+* Les [recos culture](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes) d'Ambre Chalumeau : format très court et très touche-à-tout, m'a surtout permis d'avoir des références en lien avec l'actualité (féminisme, masculinisme, expos en cours etc…)
+* Site [Genius](https://genius.com/) : bon il faut d'abord trouver les chansons, mais une fois qu'on a une liste de chansons à analyser, le site fournit des analyses assez quali
+* Chaîne youtube [France Culture](https://www.youtube.com/@FranceCulture) : surtout les biographies d'auteurs, ça permet d'avoir les idées claires sur les mouvements littéraires, leur contexte etc…
+
+  
+### Mon dossier 
   * [Dossier Mines-Ponts](https://drive.google.com/file/d/1mjzMW2rAw5Dl7rhXNpDp53wNpq3DJ3e4/view?usp=sharing)
 
 
