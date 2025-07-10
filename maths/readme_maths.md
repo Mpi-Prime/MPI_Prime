@@ -84,7 +84,7 @@
   16. Calcul différentiel : [Énoncé](/maths/td/maths_khube_td_16_enonce.pdf)
 
 
-## Préparation aux oraux
+
 
 
 
