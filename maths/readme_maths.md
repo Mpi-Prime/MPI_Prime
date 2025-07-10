@@ -4,9 +4,9 @@
 
 ## Révisions 
 ### Nos fondamentaux 
-  * Nos fondamentaux (Fiches d'Olivier uniquement) :
+  * Nos fondamentaux (Fiches d'Olivier uniquement) : [Les fiches de cours](https://drive.google.com/file/d/1pNYA931gYHuhoRywU0xeeHdJomA-Bq_i/view?usp=sharing)
   * Nos fondamentaux (Théorèmes d'analyse uniquement) : [Les théorèmes et définitions](/maths/fiches/maths_khube_th_analyse.pdf)
-  * Nos fondamentaux (La totale) : 
+  * Nos fondamentaux (La totale) : [Nos Fondamentaux - Maths edition](https://drive.google.com/file/d/1XciCoqdFYQ7xvRyt-sLVXKMQ7TMktrb8/view?usp=sharing)
 
 ### Les Fiches de Clovis 
   * [Algèbre](https://1drv.ms/b/c/247C42F66BD86EF0/AfBu2Gv2QnwggCR6DwAAAAA?e=ynbblt)
