@@ -4,10 +4,10 @@
 
  
 
-## Nos fondamentaux (Publication prévue en Juin 2025)
+## Nos fondamentaux 
 
 <div align="center"> <img src="/misc/images/fondamentaux_info.png" alt="Maths" width="600"/> </div>
-<div align="center"> Nos Fondamentaux - Info Edition  </div>
+<div align="center"> <a href= https://drive.google.com/file/d/1LSlTYJRjUgivYZDUNJBZUqF8jFRPm9zh/view?usp=sharing > Nos Fondamentaux - Info Edition </a> </div>
 
 <br /> 
 <br /> 
