@@ -10,7 +10,7 @@
 
 
 ## Révisions
-### Nos fondamentaux (Sortie prévue en Juillet 2025)
+### Nos fondamentaux 
 <div align="center"> <img src="/misc/images/fondamentaux_physique.png" alt="Physique" width="600"/> </div>
 <div align="center"> <a href= https://drive.google.com/file/d/1i_diT60lvi5uwxaF2WVz3Eqrp83JB2DY/view?usp=sharing > Nos Fondamentaux - Physics Edition </a>  </div>
 
@@ -18,14 +18,14 @@
 <br /> 
 <br /> 
 
-### Applications de cours : les musts (liens privés 🔒 jusqu'à juillet)
-   * [Mécanique](https://drive.google.com/file/d/1UsHL_zigvzv1GLXmQ-6ojeP8iCGVJtFv/view?usp=sharing)
-   * [Électromagnétisme](https://drive.google.com/file/d/1xiXJoaCfacl9TYX5b1b7nb-l3B9NIsfT/view?usp=drive_link)
+### Applications de cours 
+   * [Mécanique](https://drive.google.com/file/d/1WuHYH_Bj2wmYLGKl4tTTOwYU9wrX38-f/view?usp=sharing)
+   * [Électromagnétisme](https://drive.google.com/file/d/1Oo896rrD9vw_sRJv7coTWOBAeW7A0ByS/view?usp=sharing)
    * Traitement du signal & Électronique
-   * [Thermodynamique](https://drive.google.com/file/d/1jTR0XNbhOgxtf1xRwEDgLrT0fkXN8cRd/view?usp=drive_link)
-   * [Ondes électromagnétiques](https://drive.google.com/file/d/14OVD6JOg7WM5uqe9VTjyJqZ0C-AcKlZJ/view?usp=drive_link)
-   * [Optique](https://drive.google.com/file/d/1Et-6knEk-qregvNgIj1kxZWlA5SPh2Qp/view?usp=drive_link)
-   * [Quantique](https://drive.google.com/file/d/1-HhB9VACmaSGGz9cTyl70JRb6m8MXXpU/view?usp=drive_link)
+   * [Thermodynamique](https://drive.google.com/file/d/1XVcaOlOZ5tawZzUvprxIhI2NWRSXhvvu/view?usp=sharing)
+   * [Ondes électromagnétiques](https://drive.google.com/file/d/10bWqa6uf3y272eQL70GtJfVKD9qv1oW2/view?usp=sharing)
+   * [Optique](https://drive.google.com/file/d/1iIm7lw5RXyE9wM65hmh4AwcNFMSoe_h4/view?usp=sharing)
+   * [Quantique](https://drive.google.com/file/d/1718QoXx6eMnPEFVSFyq3Cckxv6wPKx8q/view?usp=sharing)
    * Chimie
 
 ### Les Fiches de Clovis
