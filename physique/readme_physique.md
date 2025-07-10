@@ -12,7 +12,7 @@
 ## Révisions
 ### Nos fondamentaux (Sortie prévue en Juillet 2025)
 <div align="center"> <img src="/misc/images/fondamentaux_physique.png" alt="Physique" width="600"/> </div>
-<div align="center"> Nos Fondamentaux - Physics Edition  </div>
+<div align="center"> <a href= https://drive.google.com/file/d/1i_diT60lvi5uwxaF2WVz3Eqrp83JB2DY/view?usp=sharing > Nos Fondamentaux - Physics Edition </a>  </div>
 
 <br /> 
 <br /> 
