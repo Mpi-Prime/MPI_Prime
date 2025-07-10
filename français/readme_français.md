@@ -28,9 +28,14 @@ J'ai trouvé quelques sites/chaînes youtube qui permettent d'explorer le monde 
 
 
 
-### Mon dossier complet
-  * [Dossier Mines-Ponts](https://drive.google.com/file/d/1mjzMW2rAw5Dl7rhXNpDp53wNpq3DJ3e4/view?usp=sharing)
+### Mon dossier complet : Nos Fondamentaux (Français)
 
+<div align="center"> <img src="/misc/images/fondamentaux_francais.png" alt="Français" width="600"/> </div>
+<div align="center"> <a href= https://drive.google.com/file/d/1bq6j7RavqTqa8uP-EfC5ntbc7hdGph91/view?usp=sharing > Nos Fondamentaux - Français Edition </a>  </div>
+
+<br /> 
+<br /> 
+<br /> 
 ### Les œuvres que j'utilisais le plus 
 
 * **Littérature française**
