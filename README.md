@@ -37,7 +37,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 
 
 <div align="center"> <img src="/misc/images/english_cover.png" alt="Anglais" width="250"/> </div>
-<div align="center"> <a href = "/français/readme_français.md" > Français </a> & <a href = "/anglais/readme_anglais.md" > Anglais </a> </div>
+<div align="center"> <a href = "/français/readme_français.md" > Français </a>  </div>
 
 <br /> 
 <br /> 
