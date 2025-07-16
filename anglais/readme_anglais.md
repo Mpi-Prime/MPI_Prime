@@ -14,43 +14,7 @@
 
 
 
-## Révisions 
-
-### Quelques fiches 
-   * Exemples Olivier
-   * Exemples d'Houdayfa ?
-
-### Les news 
-
-### Fiches vocabulaire 
-Voici les cartes de vocabulaire d'anglais de votre année de MPI(*)
-
-Elles sont basées sur le fichiers de vocabulaire que vous devriez recevoir au format papier en septembre
-
-Elles sont présentes ici sous deux formes : 
-   * "fiches_anglais_voca_hurtrez.txt" est un fichier de fiches anki déjà créées, elles sont regroupées en un fichier et les chapitres sont repérés par des tags (ou étiquettes dans la version française d'anki)
-
-   * "theme_numero_titre.txt" sont les fichiers de vocabulaires séparés, vous pouvez les importer sur anki en prenant pour séparateur de champ ":" et séparateur de ligne le retour à la ligne
-
-   * Les fiches du type "unit_nb_nom.txt" représentent le vocabulaire récupéré dans les dossiers que M. Hurtrez vous donnera tout au long de l'année...
-
-**Thèmes**
-
-  1. Politics : [Fichier txt](/anglais/theme_1_politics.txt)
-  2. The Media : [Fichier txt](/anglais/theme_2_the_media.txt)
-  3. Society, Family and education : [Fichier txt](/anglais/theme_3_society_family_and_education.txt)
-  4. Social tensions : [Fichier txt](/anglais/theme_4_social_tensions.txt)
-  5. Economy and business : [Fichier txt](/anglais/theme_5_economy_and_business.txt)
-  6. Working conditions : [Fichier txt](/anglais/theme_6_working_conditions.txt)
-  7. Health and genetics : [Fichier txt](/anglais/theme_7_health_and_genetics.txt)
-  8. Energy and transport : [Fichier txt](/anglais/theme_8_energy_and_transport.txt)
-  9. Science and space : [Fichier txt](/anglais/theme_9_science_and_space.txt)
-  10. Nature and ecology : [Fichier txt](/anglais/theme_10_nature_and_ecology.txt)
-  11. Advertising and consumption : [Fichier txt](/anglais/theme_11_advertising_and_consumption)
 
 
-**Units**
-   1. Politics : [Fichier txt](/anglais/unit_1_politics.txt)
-   2. Scholarship : [Fichier txt](/anglais/unit_2_scholarship.txt)
-   3. Gender relations : [Fichier txt](/anglais/unit_3_gender_relations.txt)
+
 
