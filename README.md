@@ -62,7 +62,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <div align="center"> <img src="/misc/images/image_cv_olivier.jpg" alt="Olivier (MPI* 2023-2025)" width="250"/> </div>
 <div align="center">   <a href="https://www.linkedin.com/in/oliviercaffier/"> Olivier Caffier  </a> <br /> </div>
 <div align="center"> (MPI* 2023-2025)  <br /> </div>
-<div align="center"> Khûbe MPI* <br /> </div>
+<div align="center"> ENSAE Paris <br /> </div>
 
 
 <br /> 
@@ -95,7 +95,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <div align="center"> <img src="/misc/images/image_cv_thibault.png" alt="Thibault Mabillotte" width="250"/> </div>
 <div align="center"> Thibault Mabillotte <br /> </div>
 <div align="center"> (MPI 2023-2025)  <br /> </div>
-<div align="center"> Khûbe MPI <br /> </div>
+<div align="center"> Telecom Nancy <br /> </div>
 
 <br /> 
 <br /> 
@@ -110,24 +110,28 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 <div align="center"> Marc Burghgraeve <br /> </div>
 <div align="center"> (MPI* 2024-2025)  <br /> </div>
+<div align="center"> Centrale Supélec  <br /> </div>
 
 <br /> 
 <br />
 <br /> 
 <div align="center"> Julien Gery <br /> </div>
 <div align="center"> (MPI 2024-2025)  <br /> </div>
+<div align="center"> Centrale Lyon  <br /> </div>
 
 <br /> 
 <br />
 <br /> 
 <div align="center"> Pierre Bodet <br /> </div>
 <div align="center"> (MPI* 2024-2025)  <br /> </div>
+<div align="center"> ENS Ulm  <br /> </div>
 
 <br /> 
 <br />
 <br /> 
 <div align="center"> Noélien Dutilleul <br /> </div>
 <div align="center"> (MPI* 2024-2025)  <br /> </div>
+<div align="center"> Centrale Lyon  <br /> </div>
 
 
 
@@ -135,7 +139,7 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br />
 <br /> 
 <div align="center"> Victor KRAWCZYK <br /> </div>
-<div align="center"> (MPI* 2024-2025)  <br /> </div>
+<div align="center"> (MPI* 2024-2026)  <br /> </div>
 
 
 <br /> 
@@ -143,15 +147,16 @@ Sur ce, bon courage à toi, tu retrouveras nos identités et nos contacts en bas
 <br /> 
 <div align="center"> Florent Deplacie <br /> </div>
 <div align="center"> (MPI 2023-2025)  <br /> </div>
+<div align="center"> ENTPE  <br /> </div>
 
 ## Nous contacter
   * olivier.caffier5@gmail.com | [Github](https://github.com/Sacss-dev) | [LinkedIn](https://www.linkedin.com/in/oliviercaffier/)
   * william.j.hasley@gmail.com | [Github](https://github.com/Carson-9) | [LinkedIn](https://www.linkedin.com/in/william-hasley-28b469296/)
   * augustine.picquet.ndl@gmail.com | [Github](https://github.com/augustinepicquet) | [LinkedIn](https://www.linkedin.com/in/augustine-picquet/)
   * clovisj59790@gmail.com | [LinkedIn](https://www.linkedin.com/in/clovis-johnson-79b17b196/)
-  * mabillotte.thibault@gmail.com
+  * mabillotte.thibault@gmail.com 
   * lucas.valemberg@outlook.com | [LinkedIn](https://www.linkedin.com/in/lucas-valemberg-382696150/)
-  * marc.burghgraeve@orange.fr
+  * marc.burghgraeve@orange.fr | [LinkedIn](https://www.linkedin.com/in/marc-burghgraeve-500236336/)
   * julien@gery.me
-  * mrpierrebodet@gmail.com
-  * florent.deplacie@gmail.com
+  * mrpierrebodet@gmail.com | [LinkedIn](https://www.linkedin.com/in/pierre-bodet-43a15a345/)
+  * florent.deplacie@gmail.com | [LinkedIn](https://www.linkedin.com/in/florent-deplacie-60345b36b/)
