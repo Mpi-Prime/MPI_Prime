@@ -83,7 +83,7 @@
   * TP4 - Graphes : [Énoncé](/info/tp/2023_2024/info_spe_TP4_enonce.pdf)
   * TP5 - Autour de Dijkstra : [Énoncé](/info/tp/2023_2024/info_spe_TP5_enonce.pdf)
   * TP6 - Appartenance à un langage algébrique : [Énoncé](/info/tp/2023_2024/info_spe_TP6_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP6_corrige.pdf)
-  * TP7 - Base de données : [Énoncé](/info/tp/2023_2024/info_spe_TP7_enonce.pdf) [(annexe)](/info/tp/2023_2024/info_spe_TP5_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP7_corrige.pdf)
+  * TP7 - Base de données : [Énoncé](/info/tp/2023_2024/info_spe_TP7_enonce.pdf) [(annexe)](/info/tp/2023_2024/info_spe_TP7_enonce_annexe.db) | [Corrigé](/info/tp/2023_2024/info_spe_TP7_corrige.pdf)
   * TP8 - Algorithmes probabilistes et d'approximation : [Énoncé](/info/tp/2023_2024/info_spe_TP8_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP8_corrigé.pdf)
   * TP9 - Branch and bound : [Énoncé](/info/tp/2023_2024/info_spe_TP9_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP9_corrige.pdf)
   * TP10 - Utilisation de threads : [Énoncé](/info/tp/2023_2024/info_spe_TP10_enonce.pdf) | [Corrigé](/info/tp/2023_2024/info_spe_TP10_corrige.pdf)
